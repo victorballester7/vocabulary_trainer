@@ -16,7 +16,6 @@ typedef struct {
 } word;
 
 int line_counter(char *);
-void reset_data(char *, int);
 int check_data(char *, int);
 int is_substr_eq(char *, char *, int);
 int char_occur(char *, char *);
@@ -84,16 +83,6 @@ int line_counter(char *file) {  // counter of line in a file.
     linies++;
   fclose(doc);
   return linies;
-}
-
-void reset_data(char *file_occur, int Numlines) {  // restore the values to 1 in "occurrences.txt".
-  FILE *file;
-  file = fopen(file_occur, "w");
-  if (file == NULL)
-    exit(1);
-  for (int i = 0; i < Numlines; i++)
-    fprintf(file, "1\n");
-  fclose(file);
 }
 
 int check_data(char *file_occur, int Numlines) {  // check whether the data in the file "occurrences.txt" is correct or not.
@@ -277,7 +266,6 @@ char game_mod(word *vocab) {
   printf("Which modality do you want to play?\n");
   printf("1-Only verbs (type 'v')\n2-Only phrasal verbs (type 'P')\n3-Only phrases (type 'p')\n4-Only nouns (type 'n')\n5-Only idioms (type 'i')\n6-Only adjectives (type 'A')\n7-Only adverbs (type 'a')\n8-Any category (type '-')\n");
   char c;
-  //c = getchar();
   scanf("%c%*c", &c);  // read one character (stored into &c), the read another one ('\n') and discarted (because of '*').
   if (strcmp(part_of_speech(c), "") == 0 && c != '-') {
     return '1';
