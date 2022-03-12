@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <strings.h>
 #include <time.h>
 
 #define MAX_LEN 100
 
-typedef struct {
+typedef struct
+{
   int num;              // label associated to that word
   int occur;            // probability
   double cum_freq;      // cumulative frequency
@@ -27,6 +29,7 @@ void cum_freq(int, word *);
 void upgrade_content(char *, int, word *);
 double rand_double(double, double);
 int cond_rand_ind(int, word *);
+int position(char *str, char c);
 int str_comp(char *, char **, int);
 void game(char *, int, word *, char);
 char game_mod(word *);
@@ -44,7 +47,6 @@ int main() {
     printf("Problem reading the data.\n");
     return 1;
   }
-
   srand(time(0));  // to generate different random numbers on the same execution.
   char c = game_mod(vocab);
   if (c == '1') {
@@ -70,7 +72,6 @@ int line_counter(char *file) {  // counter of line in a file.
   FILE *doc;
   int c = '\0', pc = '\n';
   int linies = 0;
-
   doc = fopen(file, "r");
   if (doc == NULL)
     return 0;
@@ -220,10 +221,26 @@ int cond_rand_ind(int Numlines, word *vocab) {  // conditioned random integer (i
   return k;
 }
 
+int position(char *str, char c) {  // return the position of the character 'c' in the string 'str'
+  char *aux;
+  aux = index(str, c);
+  return (int)(aux - str);
+}
+
 int str_comp(char *guess, char **options, int len) {  // check whether or not two strings are similar.
   for (int i = 0; i < len; i++) {
+    // if (char_occur(options[i], "(") != 0) {
+    //   int pos = position(options[i], '(');
+    //   char str[pos + 1];
+    //   strncpy(str, options[i], pos - 1);  // pos - 1 because we want to delete also the space before the parenthesis.
+    //   printf("\n\nt'hem atrapat\n\n");
+    //   printf("%s,%s-\n", guess, str);
+    //   if (strncmp(guess, str, pos + 1) == 0)
+    //     return 0;
+    // } else {
     if (strcmp(guess, options[i]) == 0)
       return 0;
+    //}
   }
   return 1;
 }
@@ -264,7 +281,7 @@ void game(char *file_occur, int Numlines, word *vocab, char c) {  // game
 
 char game_mod(word *vocab) {
   printf("Which modality do you want to play?\n");
-  printf("1-Only verbs (type 'v')\n2-Only phrasal verbs (type 'P')\n3-Only phrases (type 'p')\n4-Only nouns (type 'n')\n5-Only idioms (type 'i')\n6-Only adjectives (type 'A')\n7-Only adverbs (type 'a')\n8-Any category (type '-')\n");
+  printf("1-Only verbs (type 'v')\n2-Only phrasal verbs (type 'F')\n3-Only phrases (type 'p')\n4-Only nouns (type 'n')\n5-Only idioms (type 'i')\n6-Only adjectives (type 'A')\n7-Only adverbs (type 'a')\n8-Only prepositions (type 'P')\n9-Any category (type '-')\n");
   char c;
   scanf("%c%*c", &c);  // read one character (stored into &c), the read another one ('\n') and discarted (because of '*').
   if (strcmp(part_of_speech(c), "") == 0 && c != '-') {
@@ -277,7 +294,7 @@ char *part_of_speech(char c) {
   switch (c) {
     case 'v':
       return "verb";
-    case 'P':
+    case 'f':
       return "phrasal verb";
     case 'p':
       return "phrase";
@@ -289,6 +306,8 @@ char *part_of_speech(char c) {
       return "adverb";
     case 'A':
       return "adjective";
+    case 'P':
+      return "preposition";
     default:
       return "";
   }
@@ -296,3 +315,4 @@ char *part_of_speech(char c) {
 
 // Things to do:
 // - there's a mystery error while typing some specific combination of keys that produces an ininite bucle.
+// - make the implementation of not scanning parenthesis while checking the correct ansewer (in str_comp)
