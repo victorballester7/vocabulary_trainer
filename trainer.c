@@ -174,6 +174,7 @@ int read_data(char *file_words, char *file_occur, int Numlines, word *vocab) {  
     if ((vocab[i].spanish_word = sep_str(spa, del)) == NULL)  // separate the multiple translations
       return 1;
     i++;
+    printf("%i-%s\n", i, vocab[i - 1].foreign_word);
   }
   cum_freq(Numlines, vocab);
   fclose(file1);
@@ -316,3 +317,6 @@ char *part_of_speech(char c) {
 // Things to do:
 // - there's a mystery error while typing some specific combination of keys that produces an ininite bucle.
 // - make the implementation of not scanning parenthesis while checking the correct ansewer (in str_comp)
+// - solve error in line 174
+// - make the reverse game: SPA -> ENG and do it in the following way:
+//    -) Put the first letter followed by N-1 underscores (where N is the size of the word). I.e, like this: coche: c__.
