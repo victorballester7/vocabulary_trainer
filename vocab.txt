@@ -23,7 +23,7 @@ v | dominate | dominar
 f | dress up | vestirse de gala
 f | fit in with | pegar, encajar, armonizar
 A | genuine | genuino, auténtico, real
-f | go ahead | dar luz verde
+f | go ahead | dar luz verde, llevar a cabo, seguir adelante, continuar
 f | go back | volver
 f | go for sth (choose) | escoger
 f | go on | ocurrir
@@ -167,7 +167,7 @@ A | confident | confiado, seguro
 A | critical | crítico
 v | disapprove | desaprobar
 f | get on (with sb) | llevarse bien, caerse bien
-n | housework | tareas domésticas
+n | housework | tareas domésticas, tareas de casa
 p | keep a promise | mantener una promesa
 p | break a promise | romper una promesa
 p | keep a secret | guardar un secreto
@@ -265,7 +265,7 @@ p | take account of | tener en cuenta
 f | take after sb | parecerse a, ser parecido a (un miembro de la familia)
 p | take charge | hacerse cargo
 p | take for granted | dar por hecho
-f | take off | despegar, tener éxito rápidamente
+f | take off (success) | despegar, tener éxito rápidamente
 f | take out sth, take sth out | sacar, extraer
 p | take sb/sth seriously | tomar en serio, tomarse en serio
 p | take turns | hacer turnos
@@ -664,7 +664,8 @@ p | have a bad influence on | ser una mala influencia
 f | key in sth, key sth in | teclear
 f | keep up sth, keep sth up | mantener
 n | landlord, landlady | arrendador, arrendadora
-f | look up sth, look sth up | buscar
+f | look up sth, look sth up (seek) | buscar
+f | look up to sb (respect) | admirar, respetar
 f | make for | ir hacia, dirigirse hacia
 f | make sth/sb out | distinguir, comprender
 f | make up for sth | compensar
@@ -673,10 +674,10 @@ f | put off sb, put sb off | disuadir
 f | put out sth, put sth out | apagar (algo que arde - un fuego o un cigarrillo)
 f | put up a fight | combatir, dar pelea (expresar oposición)
 f | put up with sb/sth | tolerar, aguantar, soportar
-n | rule | regla
+n | rule | regla, norma
 v | star | ser la estrella, protagonizar
 f | start out | empezar
-f | take off sth, take sth off | tomarse libre
+f | take time off | cogerse unos días, tomarse unos días, tomarse días libres
 n | treatment | tratamiento
 A | weird | muy extraño
 f | work on sth | trabajar en
