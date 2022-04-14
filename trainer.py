@@ -44,9 +44,8 @@ Words: list[word] = []
 Inc: list[int] = []
 sep = ", "
 
+
 # transforms the character '1' (for example) into the number 1.
-
-
 def readlines_num(file: TextIO):
   L = [int(x[0]) for x in file.readlines()]
   return L
@@ -62,9 +61,8 @@ def is_new_line(file: TextIO):
   if lines != L.count('\n'):
     file.write('\n')
 
+
 # reads the data from the files "file_words" and "file_occur"
-
-
 def read_data(file_words: str, file_occur: str):
   with open(file_words, 'r') as file1:
     L1 = file1.readlines()
@@ -92,9 +90,8 @@ def read_data(file_words: str, file_occur: str):
     X.setSpaWord()
     Words.append(X)
 
+
 # random integer number conditioned to the number in "Words[i].occur"
-
-
 def cond_random():
   x = random.random()
   i = 0
@@ -104,24 +101,21 @@ def cond_random():
     i = i + 1
   return 0
 
-# compares two strings
 
-
-def compare_strings(str1: str, str2: str):
+def compare_strings(str1: str, str2: str):  # compares two strings
   return str1 == str2
 
-# upgrade the content in "file_occur"
 
-
-def upgrade_content(file_name: str):
+def upgrade_content(file_name: str):  # upgrade the content in "file_occur"
   with open(file_name, "w") as file:
     for i in Words:
       file.write(str(i.occur) + "\n")
 
 
+# performs the comparison between the answered word and the correct word
 def guess_word(n: int, file_occur: str):
   print(
-      "\nForeign word:\t    {0} ({1})".format(
+      "\nEnglish word:\t    {0} ({1})".format(
           Words[n].eng_word,
           Words[n].wType()))
   guess = input("Guess spanish word: ")
@@ -140,7 +134,7 @@ def guess_word(n: int, file_occur: str):
   upgrade_content(file_occur)
 
 
-def game_exit(count: int):
+def game_exit(count: int):  # game function for finishing the game
   with open(file_incor, 'w') as file:
     for i in Inc:
       file.write(str(i) + "\n")
@@ -157,7 +151,7 @@ def game_exit(count: int):
   print("\nExiting the program.")
 
 
-def game(file_occur: str, file_incor: str):
+def game(file_occur: str, file_incor: str):  # the game
   count = 0
   with open(file_incor, 'r') as file:
     for i in file.readlines():
