@@ -1,7 +1,7 @@
 v | anticipate | anticipar
 n | assertion | afirmación
 p | believe wholeheartedly | estar completamente convencido
-p | choose wisely | elegir sabiamente
+p | choose wisely | elegir sabiamente, escoger sabiamente
 A | clueless | desinformado
 i | come back to haunt you | regresar para atormentarte
 p | courage in the face of an affliction | valor ante el sufrimiento
@@ -12,23 +12,23 @@ i | go to incredible lengths | llegar a extremos increíbles
 n | extent | alcance
 v | cope | salir adelante, superar
 v | portray | retratar, representar
-f | add to sth | añadir
+f | add to (sth) | añadir
 n | bargain | ganga
 n | bracelet | pulsera, brazalete
 A | casual | informal, casual
 n | comparison | comparación
-f | cut down sth, cut sth down | reducir
+f | cut down (sth), cut (sth) down | reducir
 v | distinguish | distinguir
 v | dominate | dominar
 f | dress up | vestirse de gala
-f | fit in with | pegar, encajar, armonizar
+f | fit in (with) | pegar, encajar, armonizar
 A | genuine | genuino, auténtico, real
 f | go ahead | dar luz verde, llevar a cabo, seguir adelante, continuar
 f | go back | volver
-f | go for sth (choose) | escoger
+f | go for (sth) (choose) | escoger
 f | go on | ocurrir
 f | go out | salir, marchar
-f | go over sth | repasar
+f | go over (sth) | repasar
 f | go up | subir
 n | hood | capucha
 n | helmet | casco
@@ -38,12 +38,12 @@ n | label | etiqueta, marca (marcar)
 n | matter | tema, cuestión
 n | outfit | conjunto de ropa, traje, ropa
 A | outrageous | chocante, extremo
-f | pull on sth, pull sth on | vestirse rápidamente
-f | put together sth, put sth together | combinar, juntar
+f | pull on (sth), pull (sth) on | vestirse rápidamente
+f | put together (sth), put (sth) together | combinar, juntar
 v | represent | representar
 f | save up (sth), save (sth) up | ahorrar
 a | slightly | ligeramente
-f | slip on sth, slip sth on | ponerse rápido algo de ropa
+f | slip on (sth), slip (sth) on | ponerse rápido algo de ropa
 A | smart (stylish) | elegante
 n | stall | puesto, caseta (de un mercado)
 f | stand out | distinguirse, destacar
@@ -51,8 +51,8 @@ n | stuff | cosas
 A | stunning | increíble, impresionante, asombroso
 A | stylish | estiloso
 n | sweatshirt | suéter, jersey
-f | take back sth, take sth back | devolver (algo comprado)
-f | take off sth, take sth off (remove) | quitar
+f | take back (sth), take (sth) back | devolver (algo comprado)
+f | take off (sth), take (sth) off (remove) | quitar
 A | accessible | accesible
 n | action | acción
 n | appliance | electrodoméstico
@@ -66,7 +66,7 @@ A | favourable | favorable
 n | feature | característica
 f | find out (sth), find (sth) out | descubrir
 n | fortune | fortuna
-f | get through sth | terminar, acabar
+f | get through (sth) | terminar, acabar
 n | goal | objetivo
 v | Google | buscar en Google, googlear
 n | graphics | gráficos
@@ -84,23 +84,23 @@ n | review | reseña
 v | solve | resolver
 A | sophisticated | sofisticado
 n | soundtrack | banda sonora
-v | submit | enviar, presentar (un documento/un plan…)
+v | submit | enviar, presentar (un documento / un plan...)
 A | tricky | delicado, difícil
-f | turn on sth, turn sth on | encender
+f | turn on (sth), turn (sth) on | encender
 A | unhelpful | que no ayuda
 n | version | versión
 A | violent | violento
 A | virtual | virtual
 v | yawn | bostezar
 n | airline | compañía aérea, línea aérea
-n | approach | acercamiento
-v | approach | acercarse
+n | approach (move closley) | acercamiento
+v | approach (move closley) | acercarse
 n | backpacker | mochilero
 f | book (sb) into | reservar una habitación de hotel para alguien
 n | cabin | cabaña
 n | campsite | camping
-f | check in | presentarse en recepción
-f | check out | dejar la habitación de hotel y pagar la cuenta
+f | check in | presentarse en recepción, check in
+f | check out | dejar la habitación de hotel y pagar la cuenta, check out
 n | cliff | acantilado
 n | coast | costa
 n | crew | tripulación
@@ -110,12 +110,12 @@ A | domestic | nacional, doméstico, casero
 n | evidence | prueba, evidencia
 n | expedition | expedición
 n | ferry | ferry
-f | fill in sth, fill sth in | rellenar, completar (un formulario...)
+f | fill in (sth), fill (sth) in | rellenar, completar (un formulario...)
 v | forbid | prohibir
 n | friendship | amistad
 f | get away | ir de vacaciones
 f | get in | llegar (un tren/a casa), entrar
-p | get rid of sth | deshacerse de
+p | get rid of (sth) | deshacerse de
 n | ground | tierra
 n | harbour | puerto
 v | land | aterrizar
@@ -127,19 +127,19 @@ n | terminal | terminal
 n | travel agent | agente de viajes
 n | wildlife | fauna y flora
 n | yacht | yate
-f | can't stand sb/sth | odiar, caer mal, no soportar
+f | can't stand (sb/sth) | odiar, caer mal, no soportar
 v | cheer | animar
 n | course (sport) | pista de carreras, campo de golf
 n | course (lessons) | curso
 n | court (sport) | pista (para practicar deportes)
 p | do business (with sb) | hacer negocios con
 p | do damage | hacer daño
-p | do sb a favour | hacer un favor
-p | do sth for a living | hacer algo para ganarse la vida
+p | do (sb) a favour | hacer un favor
+p | do (sth) for a living | hacer algo para ganarse la vida
 f | do without (sb/sth) | arreglarselas, apañarse
 n | extreme sport | deporte extremo
 f | fall apart | derrumbarse (una persona)
-f | fall for sb | enamorarse de
+f | fall for (sb) | enamorarse de
 f | fall out (with sb) | enfadarse con
 f | fall through | fracasar
 n | field | campo
@@ -161,7 +161,7 @@ n | squash | squash
 n | team | equipo
 n | track | pista
 v | affect | afectar, influir
-f | be accustomed to sth/doing sth | estar acostumbrado a
+f | be accustomed to (sth/doing sth) | estar acostumbrado a
 f | be friends with | ser amigo de
 A | confident | confiado, seguro
 A | critical | crítico
@@ -171,7 +171,7 @@ n | housework | tareas domésticas, tareas de casa
 p | keep a promise | mantener una promesa
 p | break a promise | romper una promesa
 p | keep a secret | guardar un secreto
-p | keep sb awake | mantener despierto
+p | keep (sb) awake | mantener despierto
 n | kid | niño
 p | make a fortune | hacer una fortuna
 p | make friends (with sb) | hacerse amigo de
@@ -241,7 +241,7 @@ n | solution | solución
 n | space | espacio
 v | sponsor | patrocinar
 n | technology | tecnología
-A | willingness | disposición, inclinación
+n | willingness | disposición, inclinación, voluntad
 A | aggressive | agresivo
 v | blush | ruborizarse, sonrojarse
 A | bossy | mandón
@@ -250,7 +250,7 @@ A | cheerful | feliz, animado
 A | competitive | competitivo
 A | demanding | exigente
 v | discourage | desanimar, disuadir, desalentar
-A | identical | idéntico
+A | identical | idéntico, idénticos
 n | identity | identidad
 A | impatient | impaciente
 A | jealous | celoso
@@ -262,12 +262,12 @@ v | resemble | parecerse
 n | similarity | similitud
 A | stubborn | tozudo
 p | take account of | tener en cuenta
-f | take after sb | parecerse a, ser parecido a (un miembro de la familia)
+f | take after (sb) | parecerse, ser parecido (a un miembro de la familia)
 p | take charge | hacerse cargo
 p | take for granted | dar por hecho
 f | take off (success) | despegar, tener éxito rápidamente
-f | take out sth, take sth out | sacar, extraer
-p | take sb/sth seriously | tomar en serio, tomarse en serio
+f | take out (sth), take (sth) out | sacar, extraer
+p | take (sb/sth) seriously | tomar en serio, tomarse en serio
 p | take turns | hacer turnos
 n | twin | gemelo
 A | unpopular | impopular
@@ -276,7 +276,7 @@ A | witty | ingenioso
 n | appliance | electrodoméstico
 n | attic | ático
 n | cart | carrito
-p | come to a conclusion | llegar a la conclusión
+p | come to a conclusion | llegar a una conclusión
 p | come to a decision | tomar una decisión
 n | crockery | vajilla
 A | crunchy | crujiente
@@ -294,13 +294,13 @@ n | inventor | inventor
 v | research | investigar
 n | ritual | ritual
 A | soggy | empapado
-A | stale | rancio
+A | stale | rancio, duro, seco (el pan por ejemplo)
 v | stick | pegar (con pegamento)
 n | substance | sustancia
 n | suspicion | sospecha
-f | talk sb into (doing) sth | persuadir, convencer
-f | tell sb/sth apart | distinguir
-p | tell a lie | mentir
+f | talk (sb) into (doing sth) | persuadir, convencer
+f | tell (sb/sth) apart | distinguir
+p | tell a lie | mentir, decir una mentira
 p | tell a story | contar una historia
 v | transform | transformar
 v | accuse | acusar
@@ -312,7 +312,7 @@ v | deny | negar
 v | educate | educar
 A | educated | educado, culto
 A | educational | educativo
-f | face up to | hacer frente a, encarar a
+f | face up to | hacer frente a, encarar a, enfrentar a, confortar a
 v | feel (opinion) | pensar, opinar
 v | insist | insistir
 v | mention | mencionar
@@ -322,7 +322,7 @@ n | position (job) | trabajo, puesto
 n | progress | progreso
 v | promise | prometer
 n | qualification | diploma
-v | refuse | rechazar
+v | refuse, reject | rechazar
 A | relevant | relevante
 n | standard | estándar
 v | urge | urgir, instar
@@ -358,9 +358,9 @@ n | unemployment benefit | prestación por desempleo
 A | unsuccessful | fallido, fracasado
 A | accessible | accessible
 n | bar | bar
-n | canal | canal
+n | canal | canal (water)
 n | clap (thunder) | trueno
-f | consist of sth | consistir en
+f | consist of (sth) | consistir en
 n | dam | presa
 A | economical | económico
 n | environment | medio ambiente
@@ -374,9 +374,9 @@ n | lightning | rayo
 n | litter | basura
 n | pane | vidriera
 n | pond | laguna
-n | rapids | rápidos (del río)
+n | rapids (river) | rápidos (río)
 v | recycle | reciclar
-n | reservoir | embalse
+n | reservoir | embalse, presa, depósito
 n | river | río
 n | route | ruta, itinerario
 n | rubbish | basura
@@ -384,7 +384,7 @@ A | second-hand | de segunda mano
 n | slice | rebanada, trozo
 n | storm | tormenta
 n | stream | arroyo
-v | tackle | enfrentarse a
+v | tackle | enfrentarse a, enfrentar, enfrentarse, afrontar
 n | traffic | tráfico
 n | vegetation | vegetación
 n | waterfall | cascada
@@ -411,7 +411,7 @@ A | ripe | maduro
 A | rotten | podrido
 n | sense | sentido
 n | amount | cantidad
-n | challenge | reto
+n | challenge | reto, desafío
 n | collector (person) | coleccionista
 n | collection | colección
 n | condition | estado, condición
@@ -420,10 +420,10 @@ A | elegant | elegante
 A | exceptional | excepcional
 p | the former | el primero (en referencia a algo mencionado previamente)
 n | the latter | el último (en referencia a algo mencionado previamente)
-f | look after sb/sth | ocuparse de, cuidar
-f | look at sth | examinar, mirar
-f | look for sth/sb | buscar
-f | look into sth | estudiar, investigar, evaluar
+f | look after (sb/sth) | ocuparse de, cuidar
+f | look at (sth) | examinar, mirar
+f | look for (sb/sth) | buscar (ir tras alguna cosa o tras alguien)
+f | look into (sth) | estudiar, investigar, evaluar
 p | the look of | aspecto
 p | look out! | cuidado!, cuidado
 A | massive | enorme
@@ -432,15 +432,15 @@ n | obsession | obsesión
 n | passion (for sth) | pasión (por algo)
 A | remarkable | notable
 n | scale | escala
-A | substantial | grande, considerable
+A | substantial | grande, considerable, sustancial, abundante
 n | technique | técnica
 A | vast | vasto, amplio
 n | alternative | alternativa
 n | biography | biografía
-f | calm sb/sth down | calmar
-f | come across sth | encontrarse con, toparse con
+f | calm (sb/sth) down | calmar
+f | come across (sth) | encontrarse con, toparse con
 f | come out (book) | salir, publicarse
-f | come up with sth | sugerir, inventarse
+f | come up with (sth) | sugerir, inventarse
 v | cope | salir adelante, superar
 n | documentary | documental
 A | doubtful | dudoso, poco convencido
@@ -449,10 +449,10 @@ n | extract | extracto (de un texto)
 n | form (type) | forma
 f | go ahead | empezar
 f | go by (time) | pasar
-f | go off sb/sth (love) | perder el gusto por, desenamorarse, dejar de gustar algo
+f | go off (sb/sth) (love) | perder el gusto por, desenamorarse, dejar de gustar algo
 f | go through | pasar, sufrir (una dificultad)
 f | go up | subir
-A | irritated | enfadado
+A | irritated | enfadado, irritado
 v | nod | saludar con la cabeza, asentir
 A | relieved | aliviado
 n | science fiction | ciencia ficción
@@ -463,10 +463,10 @@ n | thriller | thriller, de suspense
 A | visual | visual
 n | alternative | alternativa
 n | biography | biografía
-f | calm sb/sth down | calmar
-f | come across sth | encontrarse con, toparse con
+f | calm (sb/sth) down | calmar
+f | come across (sth) | encontrarse con, toparse con
 f | come out (book) | salir, publicarse
-f | come up with sth | sugerir, inventarse
+f | come up with (sth) | sugerir, inventarse
 v | cope | salir adelante, superar
 n | documentary | documental
 A | doubtful | dudoso, poco convencido
@@ -475,7 +475,7 @@ n | extract | extracto (de un texto)
 n | form (type) | forma
 f | go ahead | empezar
 f | go by (time) | pasar
-f | go off sb/sth (love) | perder el gusto por, desenamorarse, dejar de gustar algo
+f | go off (sb/sth) (love) | perder el gusto por, desenamorarse, dejar de gustar algo
 f | go through | pasar, sufrir (una dificultad)
 f | go up | subir
 A | irritated | enfadado
@@ -502,12 +502,12 @@ n | exercise | ejercicio
 v | exercise | hacer ejercicio
 n | eyebrow | ceja
 v | faint | desmayarse
-v | graze | hacerse un rasguño, rasparse
+v | graze | hacerse un rasguño, raspar, rasparse, rasguñar, rasguñarse (la piel)
 v | hurt | doler
 n | jaw | mandíbula
 n | knee | rodilla
 n | needle | aguja
-p | on average | de media
+p | on average | de media, en promedio
 p | on balance | teniéndolo todo en cuenta, en general, en conjunto
 p | on behalf of | en nombre de
 p | on condition that | a condición de que, siempre que
@@ -558,7 +558,7 @@ v | shoplift | robar (de una tienda)
 v | steal | robar
 n | suspect | sospechoso (persona)
 A | suspicious | sospechoso
-p | take sb to court | demandar a alguien, llevar a alguien a los tribunales, llevar a alguien a juicio
+p | take (sb) to court | demandar a alguien, llevar a alguien a los tribunales, llevar a alguien a juicio, demandar
 n | thief | ladrón
 v | trace | rastrear, seguir la pista
 n | trial (law) | juicio
@@ -613,9 +613,9 @@ n | venue | lugar, sitio (donde se celebra un evento)
 A | unique | único
 n | ash | ceniza
 f | break off (sth), break (sth) off | acabar, suspender, poner fin, terminar
-f | call off sth, call sth off | anular, cancelar
+f | call off (sth), call (sth) off | anular, cancelar
 n | crack | grieta
-f | cut sb/sth off, cut off sb/sth | aislar, distanciarse de
+f | cut (sb/sth) off, cut off (sb/sth) | aislar, distanciarse de
 v | damage | dañar
 A | damp | húmedo
 n | drought | sequía
@@ -626,29 +626,29 @@ A | humid | húmedo
 n | hurricane | huracán
 v | injure | dañar, herir, lesionar
 A | invaluable | precioso, inestimable, de mucho valor, que no tiene precio
-f | let off sb, let sb off | perdonar, no castigar
+f | let off (sb), let (sb) off | perdonar, no castigar
 f | log off | cerrar sesión, finalizar sesión
 n | peak | cima
 n | planet | planeta
 v | preserve | mantener, preservar
 A | priceless | inestimable, invaluable
-f | send off sth, send sth off | enviar
+f | send off (sth), send (sth) off | enviar
 A | sensitive | sensible
-v | shake | temblar, tirita, agitar
-f | tell off sb, tell sb off | regañar, echar bronca
+v | shake (vibrate) | temblar, tiritar, agitar
+f | tell off (sb), tell (sb) off | regañar, echar bronca
 n | thunder | trueno
 v | tremble | temblar
 v | undo | deshacer, desabrochar
-v | unfasten | desabrochar
+v | unfasten | desabrochar, deshacer, desatar, desmarrar
 v | untie | desatar
 v | unwrap | abrir, desenvolver
 n | volcano | volcán
-n | weather forecast | predicción meteorológica, pronóstico del tiempo
+n | weather forecast | predicción meteorológica, previsión meteorológica, pronóstico del tiempo
 f | wear off | disiparse, desaparecer gradualmente
 n | apology | disculpa
 a | apparently | aparentemente, por lo visto
 n | cashpoint | cajero, cajero automático
-f | catch up on sth | ponerse al día
+f | catch up on (sth) | ponerse al día
 n | comedian | cómico, comediante
 n | comedy | comedia
 n | complaint | queja, reclamación
@@ -656,32 +656,32 @@ n | disguise | disfraz
 v | disguise | disfrazar
 n | earnings | salario
 v | estimate | estimar
-f | get sth over with | quitarse de encima, sacarse de encima
+f | get (sth) over with | quitarse de encima, sacarse de encima
 f | hang around (with sb) | pasar tiempo (con alguien)
 n | humour | humor
 v | ignore | ignorar, no prestar atención
 p | have a bad influence on | ser una mala influencia 
-f | key in sth, key sth in | teclear
-f | keep up sth, keep sth up | mantener
+f | key in (sth), key (sth) in | teclear
+f | keep up (sth), keep (sth) up | mantener
 n | landlord, landlady | arrendador, arrendadora
-f | look up sth, look sth up (seek) | buscar
-f | look up to sb (respect) | admirar, respetar
+f | look up (sth), look (sth) up (seek) | buscar (en algún sitio)
+f | look up to (sb) (respect) | admirar, respetar
 f | make for | ir hacia, dirigirse hacia
-f | make sth/sb out | distinguir, comprender
-f | make up for sth | compensar
-f | pick up sth, pick sth up | aprender
-f | put off sb, put sb off | disuadir
-f | put out sth, put sth out | apagar (algo que arde - un fuego o un cigarrillo)
+f | make (sb/sth) out | distinguir, comprender
+f | make up for (sth) | compensar
+f | pick up (sth), pick (sth) up | aprender
+f | put off (sb), put (sb) off | disuadir
+f | put out (sth), put (sth) out | apagar (algo que arde - un fuego o un cigarrillo)
 f | put up a fight | combatir, dar pelea (expresar oposición)
-f | put up with sb/sth | tolerar, aguantar, soportar
+f | put up with (sb/sth) | tolerar, aguantar, soportar
 n | rule | regla, norma
 v | star | ser la estrella, protagonizar
 f | start out | empezar
-f | take time off | cogerse unos días, tomarse unos días, tomarse días libres
+f | take time off | tomarse unos días, tomarse días libres, tomarse un tiempo libre, tomarse tiempo libre
 n | treatment | tratamiento
 A | weird | muy extraño
-f | work on sth | trabajar en
-f | work out sth, work sth out | entender, resolver, solucionar
+f | work on (sth) | trabajar en
+f | work out (sth), work (sth) out | entender, resolver, solucionar
 p | deep in through | perdido en sus pensamientos
 a | inwardly | por dentro, interiormente
 n | coroner | forense,
@@ -721,7 +721,7 @@ v | digress | divagar
 n | bog | pantano, lodazal
 v | moan | gemmir, quejarse
 v | howl | aullar, gritar
-n | heaven | cielo 
+n | heaven | cielo
 v | asleep | dormido
 A | downstairs | em la planta baja
 P | red-handed | con las manos en la masa
@@ -729,7 +729,7 @@ a | severely | seriamente, gravemente, severamente
 a | sternly | severamente, rigurosamente, duramente
 v | starve | pasar hambre, morir de hambre
 A | fool | tonto
-v | peer | mirad detenidamente 
+v | peer | mirar detenidamente 
 n | silhouette | silueta
 v | ease | aliviar
 v | implore | rogar, suplicar
@@ -746,7 +746,7 @@ A | stony | pedregoso
 n | thump | golpe, paliza, porrazo 
 n | fist | puño
 n | flight (escape) | huida, escapada
-A | bent | tocido, curvado, doblado
+A | bent | torcido, curvado, doblado
 n | madman | loco, frenético
 A | stunned | aturdido, inconsciente
 A | muzzled | amordazado
@@ -760,7 +760,6 @@ v | stare | mirar fijamente
 A | wicked | malvado
 n | ambush | emboscada
 v | crouch | agacharse
-A | lit | iluminado
 n | curtains | cortinas
 P | get up | levantarse
 n | fog | niebla
@@ -771,3 +770,309 @@ A | elated | eufórico
 n | schemer | manipulador, conspirador
 n | decoy | cebo, trampa
 A | betrayed | traicionado
+n | offspring | hijos
+v | hesitate | dudar
+i | all year round | a lo largo del año
+n | alleyway | callejón
+i | anything goes | todo vale
+n | aspect | aspecto
+n | automatic pilot | piloto automático
+a | barely | apenas
+A | bizarre | extraño, estrambótico
+f | break down | averiarse, romperse
+A | bustling | a reventar, atascado (de gente)
+p | catch sight of | ver, avistar, notar
+f | check out | verificar, comprovar
+A | competent | competente
+A | courageous | valiente
+A | crude | grosero, vulgar
+A | decisive | decisivo
+v | decline | rechazar
+n | delight | placer
+n | disbelief | desconfianza
+p | dos and don'ts | normas
+A | down-to-earth | sensato, centrado, realista
+p | end up | acabar en, terminar en
+p | face a challenge | afrontar un reto
+v | gain | obtener, ganar, adquirir
+p | gain insight | Ganar conocimiento, entendimiento
+p | get the wrong impression | tener la impresión equivocada
+p | get to know (sb or sth) | concocer (a alguien o algo estando tiempo con él o con aquello)
+n | getaway | escapada, vacaciones
+f | go through | pasar por (una situación)
+v | hesitate | dudar
+v | hold | agarrar
+n | iceberg | iceberg
+A | incredible | increíble
+A | irritable | irritable
+i | keep in touch | mantenerse en contacto
+A | knowledgeable | culto, conocedor
+p | make up your mind | decidirse
+v | mark (an anniversary) | cumplirse (un aniversario)
+n | maze | laberinto
+a | merely | simplemente
+A | narrow-minded | cerrado, de mente estrecha
+A | outgoing | extrovertido
+v | perceive | percatarse de que, comprender que
+A | persuasive | persuasivo, convincente
+f | pop over | dar una vuelta
+n | proof | prueba
+v | purr | ronronear
+n | queue | cola (de personas)
+A | rancid | rancio
+i | read between the lines | leer entre líneas
+v | regard | considerar
+n | roost | nido
+A | rotten | podrido
+A | sarcastic | sarcástico
+v | scrub | fregar
+A | self-deprecating | autocrítico
+p | sense of humour | sentido del humor
+f | set up | instalar, montar
+v | skim | sobrevolar, rozar
+p | social glue | pegamento social
+n | social-networking | redes sociales
+a | solely | solamente, únicamente
+v | strengthen | fortalecer, endurecer
+i | tip of the iceberg | punta del iceberg
+p | to my mind | en mi opinión
+f | try out | probar, hacer una prueba
+n | warmth | calor, amabilidad
+n | way | forma, estilo
+p | way of life | estilo de vida
+v | acknowledge | confirmar un recibo
+v | adapt | adaptarse
+n | adulthood | edad adulta
+n | ambition | ambición
+v | antagonise | contrariar a
+v | apologise | disculparse
+v | assign | asignar
+v | assume | asumir
+v | attach | adjuntar, poner algo en
+f | believe in | creer en
+v | confirm | confirmar
+n | delay | retraso
+f | draw on | usar, utilizar, hacer uso de (conocimiento / información)
+v | forward | reenviar, remitir
+f | get on (with sth) | llevarse bien con
+f | get out (of sth) | escaparse, librarse (de algo)
+A | grateful | agradecido
+p | have sth in common | tener algo en común
+A | isolated | aislado, apartado
+f | keep up | mantenerse, seguir el ritmo, mantener
+f | live up to | igualar, estar a la altura
+f | look forward to | estar ansioso, estar deseando algo
+f | look up to | admirar, respetar
+f | opt for | optar for
+A | overpriced | carísimo
+i | pros and cons | pros y contras
+v | provide | proveer, aportar
+v | recover | recuperarse
+n | reference | referencia
+v | sit (for an exam) | hacer (un examen)
+v | specialise | especializarse
+A | tactful | discreto, con tacto
+p | take part | participar, formar parte
+f | take over | hacerse cargo
+n | thriller | película, libro de suspense
+A | tricky | complicado, difícil, delicado
+A | adaptable | flexible, adaptable
+v | address | dirigirse a, abordar (algo)
+n | advisee | persona que recibe un consejo
+n | advisor | consejero
+f | ask out | invitar a salir
+n | associate | socio, auxiliar, asociado
+A | awkward | difícil, incomodo, complicado, torpe
+p | the best of both worlds | lo mejor de cada casa
+n | bully | abusón
+n | cast | reparto (de actores)
+n | concept | concepto
+A | corporate | corporativo, empresarial
+A | destined | destinado a algo
+n | disturbance | interrupción, perturbación, alboroto
+p | downward spiral | situación que va empeorando
+A | edgy | nervioso, inquieto
+v | embrace | aceptar, acoger
+n | epoch | época, era
+n | expertise | experiencia
+n | flourishing | floreciente, próspero, exitoso
+n | folk | gente
+n | fuss | escándalo
+f | hang out with | pasar tiempo con
+i | hog the limelight | llevarse todo el protagonismo
+i | in the public eye | conocido por todos
+i | in the running | con oportunidades de ganar
+n | in-joke | broma privada
+n | intrusion | intrusión, violación (de intimidad)
+i | it's high time | ya va siendo hora de que
+n | jargon | jerga, argot
+A | light-hearted | alegre
+A | moving | emotivo
+v | narrow | estrecharse
+n | notion | idea, noción
+p | on the spot | en el lugar mismo
+i | over the hill | estar para el arrastre (que una persona ya no sirve)
+i | over the top | desmesurado (demasiado extremo)
+n | pace | ritmo
+n | paparazzi | paparazzi
+f | pick on | acosar, meterse con
+A | pointless | inútil, sin sentido
+n | privacy | privacidad
+i | put the record straight | dejar las cosas claras
+n | recommendation | sugerencia, recomendación
+A | reserved | reservado (una persona)
+i | roll up your sleeves | arremangarse (preparase para algo)
+n | sacrifice | sacrificio
+n | seminar | seminario, cursillo
+i | skeletons in the cupboard | secretos vergonzosos
+A | smitten | enamorado
+v | snap | ladrar, gruñir
+n | soap opera | culebrón
+f | stem from | originarse de
+A | struggling | en apuros, en aprietos
+p | take yourself (too) seriously | tomarse en serio uno mismo
+v | tease | burlarse de
+p | tell the difference | notar la diferencia (entre dos cosas)
+i | then and there | en ese momento y lugar
+v | touch | tocar, acariciar
+p | tough upbringing | infancia difícil
+v | transform | transformar
+n | transition | transición
+p | turn nasty | volverse desagradable
+i | under the weather | no sentirse bien, estar malo
+A | universal | universal
+i | up to the mark | dentro de lo esperable
+a | vice versa | viceversa
+p | victim mentality | victima mental (uno se considera la victima de las acciones de otros)
+n | villain | villano, el malvado
+A | accessible | accessible
+p | at your earliest convenience | tan ponto como te sea posible
+v | avoid | evitar
+n | balance | equilibrio
+A | conclusive | decisivo
+n | consequence | consecuencia
+A | content | conforme, contento, satisfecho
+A | conventional | convencional, tradicional, ordinario
+v | co-opt | nombrar a
+n | deceit | engaño, mentira
+v | distinguish | distinguir
+v | dramatise | dramatizar, escenificar
+A | effective | eficaz, efectivo
+A | efficient | eficiente
+n | enquiry | pregunta
+n | evaluation | evaluación, análisis
+v | follow | seguir
+i | geared towards | dirigido a (un grupo de personas / una situación...)
+i | give sb a ring | telefonear a alguien
+n | independence | independencia
+p | keep an eye open | mantener un ojo abierto
+A | literate | alfabetizado (sabe leer y escribir)
+A | low-cost | barato
+A | mature | maduro
+n | objection | oposición, objeción
+n | personnel | personal
+v | purchase | comprar
+A | rational | racional
+P | regarding | en relación con, sobre
+v | speculate | especular que, suponer que
+f | take on | aceptar (un trabajo)
+n | tariff | tarifa
+n | top up | recargar (una tarjeta de crédito por ejemplo)
+a | ultimately | finalmente
+A | varied | variado, diverso
+n | abundance | abundancia
+A | adequate | adecuado
+A | advisable | aconsejable
+n | applicant | solicitante
+n | career ladder | escalar posiciones (de trabajos) (cada vez vas cobrando más)
+A | challenging | desafiante
+A | competitive | competitivo
+p | competitive salary | salario competitivo
+n | curriculum vitae | curriculum vitae
+n | dedication | Dedicación
+v | determine | determinar
+A | downhearted | desanimado
+v | eliminate | eliminar
+v | enrol | inscribirse, matricularse
+n | entrepreneur | emprendedor
+n | equivalent | equivalente
+v | exceed | exceder
+n | funds | fondos (dinero)
+i | get off the ground | despegar, arrancar, empezar (un proyecto)
+i | go for it | ve a por ello
+p | in trouble | en problemas
+A | inspirational | inspirador
+n | job seeker | persona que busca trabajo
+p | mislead | engañar
+n | oil spill | Derrame de petróleo
+n | operating theatre | quirófano
+n | peer | par (dos cosas iguales o muy similares)
+n | predecessor | predecesor
+n | rejection | rechazo
+a | respectively | respectivamente
+v | rule out | descartar
+n | screening | evaluación
+A | sketchy | incompleto, esbozado
+A | stressed out | estresado
+f | swarm with | llenar con (lleno de personas o de cosas)
+n | target | objetivo
+n | tendency | tendencia
+n | thrill | emoción, excitación
+A | unemployed | desempleado
+A | waterproof | impermeable
+f | wear off | desaparecer, desvanecerse (gradualmente)
+n | willingness | disposición (estar en disposición de)
+n | work placement | trabajo en prácticas
+f | break up | interrumpirse (una llamada de telefono)
+n | breakthrough | avance, logro, descubrimiento
+f | call back | devolver la llamada
+n | catch up | reunión (informal) (para ponerse al día de las noticias)
+v | chain | encadenar
+f | come up with | proponer, inventarse
+p | be cut off | ser interrumpida (una llamada a causa de un problema)
+v | disentangle | desenredar
+p | do your best | hacer algo lo mejor que uno pueda
+A | drawn out | prolongar
+v | dump | terminar de golpe una relación
+A | face-to-face | cara a cara
+A | futuristic | futurista
+n | gadget | aparato, artefacto, dispositivo
+f | get through | localizar a alguien (para poder poder hablar con el por telefono)
+f | go off | dejar de gustar algo, alguien
+f | hang on | esperar
+f | hang up | colgar
+p | have no way of knowing | no hay manera de saber
+A | immobile | inmóvil
+A | impolite | descortés
+p | it goes without saying | no hace falta decir nada (és obvio)
+f | leave out | dejar fuera (excluir) a algo, alguien
+A | lengthy | largo, extenso, prolongado
+n | mobility | movilidad
+i | off the hook | descolgado (el telefono)
+i | out of the blue | inesperadamente
+f | pass sb over | pasar a alguien al telefono (ejemplo: te paso con Maria)
+f | plunge into | tirarse de cabeza (figurativo: estar entusiasmado por empezar algo)
+A | primitive | primitivo
+p | put sb on hold | dejar a alguien en espera
+f | put sb through | pasar a alguien al telefono (ejemplo: te paso con Maria)
+n | reception | recepción
+n | recipient | receptor
+n | repetitive strain injury | trastorno musculoesquelético (lesión por esfuerzo repetitivo)
+f | ring back | volver a llamar
+f | ring off | colgar
+f | run down | perder potencia
+f | run out | agotarse
+A | satirical | satírico
+A | sociological | sociológico
+f | speak up | hablar mas fuerte
+a | straightaway | inmediatamente
+f | take off | despegar (empezar a ser popular)
+p | take someone seriously | tomarse en serio
+p | take someone's word for sth | confiar en la palabra de alguien
+A | tedious | aburrido
+p | thing of the past | cosa del pasado
+a | to and fro | de un lado a otro (vaivén)
+v | unwrap | desenvolver, abrir
+n | veteran | veterano
+n | vowel | vocal
+p | wouldn't have it any other way | no lo haría de ninguna otra manera
