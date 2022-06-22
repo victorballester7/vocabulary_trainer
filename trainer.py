@@ -166,19 +166,36 @@ def guess_word(n: int, file_occur: str, count: int, t: str):
     if s == "se":
       first_char = Words[n].eng_word[0][0]
       nWords = min([i.count(" ") for i in Words[n].use_eng_word]) + 1
-      guess = input(
-          "Guess {c} word ({c1} word/s):   {c2}".format(
-              c=text_format(r).lower(), c1=nWords, c2=first_char
-          )
-      )  # .lower() is to lowercase the word
-      guess = first_char + guess
     else:
-      guess = input(
-          "Guess {c} word:\t         ".format(
-              c=text_format(r).lower()))
+      first_char = Words[n].spa_word[0][0]
+      nWords = min([i.count(" ") for i in Words[n].use_spa_word]) + 1
+    guess = input(
+        "Guess {c} word ({c1} word/s):   {c2}".format(
+            c=text_format(r).lower(), c1=nWords, c2=first_char
+        )
+    )  # .lower() is to lowercase the word
+    Guess = [first_char + guess, guess]
+  # try:
+  #   if s == "se":
+  #     first_char = Words[n].eng_word[0][0]
+  #     nWords = min([i.count(" ") for i in Words[n].use_eng_word]) + 1
+  #     guess = input(
+  #         "Guess {c} word ({c1} word/s):   {c2}".format(
+  #             c=text_format(r).lower(), c1=nWords, c2=first_char
+  #         )
+  #     )  # .lower() is to lowercase the word
+  #     guess = first_char + guess
+  #   else:
+  #     guess = input(
+  #         "Guess {c} word:\t         ".format(
+  #             c=text_format(r).lower()))
   except KeyboardInterrupt:
     game_exit(count)
-  G = [compare_strings(guess, str) for str in choice(n, r)[1]]
+  G = [
+      compare_strings(Guess[0], str) +
+      compare_strings(Guess[1], str)
+      for str in choice(n, r)[1]
+  ]
   if sum(G) > 0:  # check if at least there is one correct answer
     print("Correct!\n")
     Words[n].occur -= 1

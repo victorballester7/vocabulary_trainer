@@ -364,7 +364,6 @@ ph-v | consist of (sth) | consistir en
 noun | dam | presa
 adje | economical | económico
 noun | environment | medio ambiente
-adje | environmentally friendly | respetuoso con el medio ambiente, ecológico
 noun | flash | destello, fogonazo
 noun | flood | inundación
 noun | fossil fuel | combustible fósil
@@ -436,7 +435,7 @@ noun | technique | técnica
 adje | vast | vasto, amplio
 noun | alternative | alternativa
 noun | biography | biografía
-ph-v | calm (sb/sth) down | calmar
+ph-v | calm (sb/sth) down | calmar, tranquilizar
 ph-v | come across (sth) | encontrarse con, toparse con
 ph-v | come out (book) | salir, publicarse
 ph-v | come up with (sth) | sugerir, inventarse
@@ -462,7 +461,6 @@ noun | thriller | thriller, de suspense
 adje | visual | visual
 noun | alternative | alternativa
 noun | biography | biografía
-ph-v | calm (sb/sth) down | calmar
 ph-v | come across (sth) | encontrarse con, toparse con
 ph-v | come out (book) | salir, publicarse
 ph-v | come up with (sth) | sugerir, inventarse
@@ -695,7 +693,7 @@ noun | heir | heredero
 noun | glimpse | vistazo
 noun | foolishness | estupidez
 noun | tale | historia, relato
-adje | mad | loco, histérico
+adje | mad, madman, madwoman | loco, histérico
 verb | flee | huir
 noun | beard | barba
 noun | chap | tipo, tío
@@ -739,14 +737,12 @@ adve | bitterly | amargamente, con rencor
 adje | worthwhile | que merece la pena, que vale la pena
 noun | bluff | engaño, farol
 adje | rough | rugoso, áspero
-noun | deception | engaño
 noun | beast | bestia
 adje | stony | pedregoso
 noun | thump | golpe, paliza, porrazo 
 noun | fist | puño
 noun | flight (escape) | huida, escapada
 adje | bent | torcido, curvado, doblado
-noun | madman | loco, frenético
 adje | stunned | aturdido, inconsciente
 adje | muzzled | amordazado
 adje | chained | encadenado
@@ -962,7 +958,7 @@ noun | enquiry | pregunta
 noun | evaluation | evaluación, análisis
 verb | follow | seguir
 expr | geared towards | dirigido a (un grupo de personas / una situación...)
-expr | give sb a ring | telefonear a alguien
+expr | give sb a ring | telefonear a alguien, llamar a alguien
 noun | independence | independencia
 expr | keep an eye open | mantener un ojo abierto
 adje | literate | alfabetizado (sabe leer y escribir)
@@ -1171,7 +1167,7 @@ verb | stow, store | guardar, almacenar (algo hasta que sea necesario)
 adje | stunning | maravilloso, asombroso, increíble
 noun | suction pad | ventosa
 expr | take pride in sth | sentirse orgulloso de algo
-noun | treadmill | cinta de andar
+noun | treadmill | cinta de andar, cinta de correr
 adje | trivial | trivial
 adje | vain | vanidoso, superficial, egoísta
 noun | amenity | servicios, comodidades, instalaciones
@@ -1539,7 +1535,7 @@ expr | break your heart | romper el corazón
 ph-v | bump into | encontrarse con, toparse con
 noun | cancer | cáncer
 verb | caper | saltar, brincar, bailotear
-expr | catch someone's eye | llamar la atención de alguien
+expr | catch someone's eye | llamar la atención de alguien, llamar la atención
 noun | cell | célula
 adje | cellular | celular
 verb | convert | cambiar (de forma)
@@ -1588,13 +1584,13 @@ adje | positive | positivo
 noun | positivity | positividad
 adje | predetermined | predeterminado
 verb | purr | murmurar, susurrar
-expr | put sb's mind at rest | tranquilizar a 
+expr | put sb's mind at rest | tranquilizar a, tranquilizar, tranquilizar a alguien
 verb | regulate | regular
 noun | resolution | resolución
 adje | sceptical | escéptico
 expr | set your heart on sth, doing sth | poner tu corazón en hacer, algo
 verb | soothe | calmar, tranquilizar
-verb | spot | Localizar, detectar
+verb | spot | localizar, detectar
 adje | striking | notable, llamativo, sorprendente
 noun | substance | sustancia
 noun | supremacy | supremacía
@@ -1610,7 +1606,7 @@ adje | convincing | Convincente
 adje | crystal clear | más claro que el agua
 adje | distinctive | distintivo
 noun | dreadlocks | rastas
-adje | ecofriendly | Respetuoso del medio ambiente
+adje | ecofriendly, environmentally friendly | respetuoso con el medio ambiente
 verb | emerge | surgir, emerger
 adje | evocative | evocador
 verb | evolve | evolucionar
