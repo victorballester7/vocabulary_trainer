@@ -1,1 +1,1 @@
-Python and C (not completed) program to practise vocabulary from a foreign language.
+Python program to practise vocabulary from a foreign language.
