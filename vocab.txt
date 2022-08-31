@@ -984,7 +984,7 @@ adje | challenging | desafiante
 adje | competitive | competitivo
 noun | competitive salary | salario competitivo
 noun | curriculum vitae | curriculum vitae
-noun | dedication | Dedicación
+noun | dedication | dedicación
 verb | determine | determinar
 adje | downhearted | desanimado
 verb | eliminate | eliminar
@@ -999,7 +999,7 @@ expr | in trouble | en problemas
 adje | inspirational | inspirador
 noun | job seeker | persona que busca trabajo
 verb | mislead | engañar
-noun | oil spill | Derrame de petróleo
+noun | oil spill | derrame de petróleo
 noun | operating theatre | quirófano
 noun | peer | par (dos cosas iguales o muy similares)
 noun | predecessor | predecesor
@@ -1153,7 +1153,7 @@ noun | laundry | ropa sucia, colada
 verb | maintain | mantener
 ph-v | mess up | desordenar
 noun | mop | mocho, fregona
-expr | be on the point of sth | estar a punto de hacer algo
+expr | be on the point of sth | estar a punto de hacer algo, estar a punto de
 verb | overcome | abrumar a, anegar a
 noun | patent | patente
 adje | pivotable | pivotable
@@ -1261,7 +1261,7 @@ adje | self-perceived | autopercibido
 noun | significance | significado, importancia
 adje | significant | significativo, importante
 verb | signify | significar, querer decir
-ph-v | squeeze into | meterse algo en un lugar pequeño
+ph-v | squeeze into | meterse algo en un lugar pequeño, meter a presión, apretar, estrujar
 ph-v | stick to | atenerse a (obedecer una ley o norma)
 noun | strategy | estrategia
 expr | survival instinct | instinto de supervivencia
@@ -1302,7 +1302,7 @@ ph-v | keep up with | estar actualizado, estar al tanto de, seguir el ritmo
 noun | look | estilo, look
 adje | made-to-measure | a medida
 noun | the mainstream | la corriente principal, cultura dominante
-adje | mistaken for | confundido
+adje | mistaken for | confundido, confundido con, confundido por
 noun | outsider | forastero, extraño
 adje | outward, outwards | por fuera, exterior, externo, saliente (como es uno / como es una cosa por fuera)
 noun | peacock | pavo real
@@ -1602,7 +1602,7 @@ noun | well-being | bienestar
 noun | wonder | preguntarse
 adje | blown away | volar la cabeza, deslumbrar
 noun | buff (fan) | aficionado, entusiasta
-adje | convincing | Convincente
+adje | convincing | convincente
 adje | crystal clear | más claro que el agua
 adje | distinctive | distintivo
 noun | dreadlocks | rastas
@@ -1883,12 +1883,11 @@ noun | damage | daño
 noun | decline | disminución, debilidad
 noun | decrease | reducción, disminución
 adje | defective | defectuoso
-noun | dengue fever | Dengue
+noun | dengue fever, dengue | dengue
 adve | densely | densamente
 adje | dire | terrible, nefasto
 noun | drop | caída, descenso
 noun | drought | sequía
-noun | El Niño | El Niño
 noun | emission | emisión
 expr | flood alert | alerta de inundación
 noun | flooding | inundación
@@ -1920,7 +1919,7 @@ noun | wake-up call | llamada de atención, toque de atención
 verb | accentuate | acentuar, resaltar
 verb | arm | armar, equipar
 noun | asset | recurso, herramienta
-noun | campaign | Campaña
+noun | campaign | campaña
 noun | compensation | compensación, remuneración
 adje | concise | conciso
 expr | constructive criticism | crítica constructiva
