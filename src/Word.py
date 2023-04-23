@@ -1,5 +1,6 @@
 from vars import dict
 
+
 class word:
   def __init__(self, type: str,
                foreign_word: list[str], spa_word: list[str], occur: int):

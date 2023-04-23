@@ -22,5 +22,4 @@ Clone the repository and run the program with Python 3.
 git clone git@github.com:victorballester7/vocabulary_trainer.git
 cd vocabulary_trainer
 python3 src/main.py
-
 ```

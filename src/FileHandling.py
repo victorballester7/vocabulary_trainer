@@ -1,16 +1,21 @@
 # transforms the character '1' (for example) into the number 1.
 import math
 from typing import TextIO
-from Game import game_exit
-
 from vars import *
+from misc import *
 
-# reads the file "file_occur" and returns a list of integers corresponding to the data in the file
+# reads the file "file_occur" and returns a list of integers corresponding
+# to the data in the file
+
+
 def readlines_as_numbers(file: TextIO):
   L = [int(x[0]) for x in file.readlines()]
   return L
 
-# detect whether or not the file ends with a character '\n'. If it does, the file remains the same. It not, '\n' is added at the EOL.
+# detect whether or not the file ends with a character '\n'. If it does,
+# the file remains the same. It not, '\n' is added at the EOL.
+
+
 def is_new_line(file: TextIO):
   file.seek(0)
   lines = len(file.readlines())
@@ -56,8 +61,7 @@ def read_data(file_words: str, file_occur: str):
 
 
 # upgrade the content in "file_occur"
-def upgrade_content(file_name: str):  
+def upgrade_content(file_name: str):
   with open(file_name, "w") as file:
     for i in Words:
       file.write(str(i.occur) + "\n")
-

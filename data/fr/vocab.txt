@@ -156,9 +156,3 @@ noun | syndicat | sindicato
 noun | travail | trabajo
 noun | usine | fábrica
 noun | vacanes | vacaciones
-noun | 
-noun | 
-adje | 
-adje | 
-adje | 
-adje | 
