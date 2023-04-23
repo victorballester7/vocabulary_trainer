@@ -1,0 +1,164 @@
+noun | adresse | dirección
+noun | arrondissement | distrito
+noun | boulevard | avenida
+adje | célibataire | soltero
+noun | chemin | camino
+noun | date | fecha
+adje | divorcé, divorcée | divorciado, divorciada
+noun | lieu | lugar
+adje | marié, mariée | casado, casada
+noun | naissance | nacimiento
+noun | origine | origen
+noun | permis de conduire | licencia de conducir, carnet de conducir, permiso de conducir
+noun | place | plaza
+noun | route | carretera
+adje | séparé, séparée | separado, separada
+noun | validité | validez
+adje | veuf, veuve | viudo, viuda
+noun | ville | ciudad
+adje | amoureux, amoureuse | enamorado, enamorada
+noun | compagnon, compagne | compañero, compañera
+noun | divorce | divorcio
+noun | enfant | niño, niña
+noun | femme | mujer
+noun | frère | hermano
+noun | mari | marido
+noun | mariage | matrimonio
+noun | mère | madre
+noun | père | padre
+noun | parents | padres
+noun | petit ami, petite amie | novio, novia
+noun | soeur | hermana
+noun | remariage | reencuentro, reencuentro matrimonial, volver a casarse
+noun | séparation | separación
+noun | bouche | boca
+noun | bras | brazo
+noun | cheveux | pelo
+adje | chaud | caliente
+noun | coeur | corazón
+adje | clair | claro
+noun | corps | cuerpo
+verb | entendre | oír
+adje | froid | frío
+noun | jambe | pierna
+noun | main | mano
+noun | sens | sentidos
+verb | sentir | sentir
+noun | son | sonido
+noun | toucher | tacto
+noun | visage | cara
+noun | yeux | ojos
+noun | vue | vista
+verb | voir | ver
+adje | beau, belle | guapo, guapa
+adje | blond, blonde | rubio, rubia
+adje | brun, brune | moreno, morena
+adje | foncé, foncée | oscuro, oscura 
+adje | grand, grande | alto, alta
+adje | gris, grise | gris
+adje | gros, grosse | gordo, gorda
+adje | joli, jolie | bonito, bonita
+adje | laid, laide | feo, fea
+adje | léger, légère | ligero, ligera
+adje | lent, lente | lento, lenta
+adje | lourd, lourde | pesado, pesada
+adje | maigre | delgado, delgada
+adje | mincre | flaco, flaca
+adje | petit, petite | pequeño, pequeña
+adje | roux, rousse | pelirrojo, pelirroja
+adje | vert, verte | verde
+adje | bête | tonto, tonta, idiota
+adje | calme | tranquilo, tranquila
+adje | content, contente | contento, contenta
+adje | courageux, courageuse | valiente
+adje | drôle | gracioso, graciosa 
+adje | gentile, gentille | amable
+adje | heureux, heureuse | feliz
+adje | intelligent, intelligente | inteligente
+adje | joyeux, joyeuse | alegre
+adje | malheureux, malheureuse | infeliz
+adje | sérieux, sérieuse | serio, seria
+adje | simple | sencillo, sencilla
+adje | souriant, souriante | sonriente
+adje | sportif, sportive | deportista
+adje | timide | tímido, tímida
+adje | triste | triste
+verb | avoir mal | tener dolor, doler
+verb | éternuer | estornudar
+noun | fièvre | fiebre
+noun | grippe | gripe
+verb | guérir | curarse
+noun | maladie | enfermedad
+noun | médecin, médecine | médico
+noun | radiologie | radiología
+noun | rhume | resfriado
+noun | santé | salud
+verb | ser blessé | estar herido, herirse
+verb | se brûler | quemarse
+verb | se casser (une jambe) | romperse (una pierna)
+verb | se couper | cortarse
+verb | se faire mal | hacerse daño
+verb | se soligner | curarse
+verb | tousser | toser
+noun | urgences | urgencias
+noun | assurance maladie | seguro médico, seguro de enfermedad
+noun | brûlure | quemadura
+noun | cachet | pastilla
+noun | comprimé | comprimido
+noun | certificat médical | certificado médico
+noun | consultation | consulta
+noun | dentiste | dentista
+noun | infermier, infirmière | enfermero, enfermera
+noun | médicament | medicamento
+noun | opération | operación
+noun | pansemant | vendaje, tirita
+noun | ordonnance | receta 
+noun | piqûre | inyección
+noun | pris de sang | muestra de sangre
+noun | remboursement | reembolso
+noun | rendex-vous | cita
+noun | vaccin | vacuna
+noun | baccalauréat | bachillerato
+noun | cantine | comedor
+noun | collège | colegio
+noun | contrôle (de maths) | examen
+verb | corriger | corregir
+noun | diplôme | diploma
+noun | erreur | error
+noun | études | estudios
+noun | faute | falta
+noun | formation | formación
+noun | leçon | lección
+noun | lycée | instituto
+noun | maître, maîtresse | maestro, maestra
+verb | obtenir | obtener
+verb | rater (un examen) | suspender
+verb | réussir (un examen) | aprobar
+verb | réviser | repasar
+verb | s'inscrire | inscribirse, matricularse
+noun | stage | prácticas
+noun | bureau | despacho, oficina
+noun | cabinet |gabinete, consultorio
+noun | chômage | desempleo, paro
+noun | collègue | compañero, compañera
+noun | conditions de travail | condiciones de trabajo
+noun | emploi | empleo
+noun | employé, employée | empleado, empleada
+noun | entreprise | empresa
+noun | grève | huelga
+noun | horaire | horario
+noun | métier | oficio
+noun | patron | jefe
+noun | profession | profesión
+noun | retraite | jubilación
+noun | salair | salario
+noun | syndicat | sindicato
+noun | travail | trabajo
+noun | usine | fábrica
+noun | vacanes | vacaciones
+noun | 
+noun | 
+adje | 
+adje | 
+adje | 
+adje | 
