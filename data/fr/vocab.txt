@@ -156,3 +156,97 @@ noun | syndicat | sindicato
 noun | travail | trabajo
 noun | usine | fábrica
 noun | vacanes | vacaciones
+verb | emmener | llevar, llevar a alguien
+expr | bien sûr | por supuesto, obviamente
+adje | vieux, vieil, vieille | viejo, vieja
+adje | plein | lleno, llena
+noun | envie | gana, deseo
+noun | activité | actividad
+verb | adorer | adorar, encantar
+verb | aimer | amar, gustar
+verb | chanter | cantar
+noun | concert | concierto
+verb | cuisiner | cocinar
+verb | danser | bailar
+verb | détester | detestar, odiar
+verb | dessiner | dibujar
+noun | film | película
+verb | jouer | jugar
+noun | jeu | juego
+noun | lecture | lectura
+noun | musique | música
+verb | peindre | pintar
+noun | peinture | pintura
+noun | photo, photographie | foto, fotografía
+noun | pièce de théâtre | obra de teatro
+verb | préférer | preferir
+noun | promenade | paseo
+verb | s'amuser | divertirse
+verb | se promener | pasear
+noun | sortie | salida
+noun | acteur, actrice | actor, actriz
+noun | artiste | artista
+noun | chanteur, chanteuse | cantante
+noun | cirque | circo
+noun | clarinette | clarinete
+noun | comédien, comédienne | comediante, cómico
+noun | danseur, danseuse | bailarín, bailarina
+noun | guitare | guitarra
+noun | musicien, musicienne | músico, música
+noun | organiser | organizador
+adje | ouvert | abierto, abierta
+noun | piano | piano
+noun | place (de concert) | entrada
+noun | salon | salón
+noun | théâtre | teatro
+noun | violon | violín
+verb | réserver | reservar
+noun | balle | pelota
+noun | ballon | balón
+noun | boxe | boxeo
+noun | champion, championne | campeón, campeona
+noun | course | carrera
+verb | courir | correr
+noun | cyclisme | ciclismo
+noun | équitation | equitación
+noun | golf | golf
+noun | joueur, joueuse | jugador, jugadora
+noun | natation | natación
+verb | nager | nadar
+verb | marcher | caminar, andar
+noun | randonnée | senderismo, caminata
+noun | salle de sport | gimnasio
+noun | ski | esquí
+noun | sport | deporte
+verb | skier | esquiar
+noun | stade | estadio
+noun | tennis | tenis
+noun | vélo | bicicleta
+noun | terrain (de tennis, de foot) | pista (de tenis, de fútbol)
+adje | ancien, ancienne | antiguo, antigua
+noun | appartement | apartamento, piso
+noun | ascenseur | ascensor
+adje | bruyaunt, bruyante | ruidoso, ruidosa
+noun | chaise | silla
+noun | chambre | habitación
+noun | chauffage | calefacción
+noun | couloir | pasillo
+noun | cuisine | cocina (kitchen)
+noun | cuisinière | cocina (stove)
+noun | escalier | escalera
+noun | étage | piso
+noun | fenêtre | ventana
+noun | immeuble | edificio
+noun | lit | cama
+noun | locataire | inquilino, arrendatario
+noun | logement | vivienda, alojamiento
+noun | maison | casa
+noun | loyer | alquiler
+verb | louer | alquilar
+adje | neuf | nuevo, nueva
+noun | propriétaire | propietario, dueño
+noun | rez-de-chaussée | planta baja
+noun | studio | estudio
+noun | table | mesa
+noun | toilettes | aseos
+noun | voisin, voisine | vecino, vecina
