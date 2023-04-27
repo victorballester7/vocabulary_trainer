@@ -250,3 +250,99 @@ noun | studio | estudio
 noun | table | mesa
 noun | toilettes | aseos
 noun | voisin, voisine | vecino, vecina
+noun | aspirateur | aspiradora
+noun | balai | escoba
+noun | brosse à dents | cepillo de dientes
+noun | dentifríce | pasta de dientes
+noun | ménage | limpieza
+verb | nettoyer | limpiar
+adje | propre | limpio, limpia
+verb | ranger | ordenar
+verb | repasser | planchar
+adje | sale | sucio, sucia
+verb | se laver | lavarse
+verb | se brosser les dents | cepillarse los dientes
+verb | se coiffer | peinarse
+verb | se coucher | acostarse
+verb | se lever | levantarse
+verb | se maquiller | maquillarse
+verb | se raser | afeitarse
+verb | s'habiller | vestirse
+noun | tâches ménagères | tareas domésticas
+noun | vaisselle | vajilla
+noun | candidat, candidate | candidato, candidata
+noun | citoyen | ciudadano
+noun | décision | decisión
+noun | égalité | igualdad
+noun | élection | elección
+verb | élire | elegir
+noun | fraternité | fraternidad
+noun | liberté | libertad
+noun | loi | ley
+noun | maire, mairiesse | alcalde, alcaldesa
+noun | parti (politique) | partido (político)
+noun | racisme | racismo
+noun | société | sociedad
+noun | sondage | encuesta, sondeo
+noun | tolérance | tolerancia
+noun | vote | voto
+noun | aller-retour | ida y vuelta
+noun | arrêt (de bus) | parada (de autobús)
+verb | attacher | atar, sujetar
+noun | ceinture | cinturón
+verb | conduire | conducir
+noun | essence | gasolina
+noun | gare | estación
+noun | guichet | ventanilla
+noun | itinéraire | itinerario
+noun | panne (de voiture) | avería (de coche)
+noun | prudent, prudente | prudente
+noun | quai | muelle (barco)
+verb | réparer | reparar 
+noun | renseignement | información
+noun | rue | calle
+verb | se garer | aparcar
+noun | station (de métro) | estación (de metro)
+noun | station-service | estación de servicio
+verb | tourner | girar 
+noun | transports en commun | transporte público
+noun | campagne | campo
+verb | camper | acampar
+noun | chambre double | habitación doble
+noun | chambre simple | habitación individual
+verb | changer de l'argent | cambiar dinero
+verb | déclarer | declarar
+noun | frontière | frontera
+noun | mer | mar
+noun | montagne | montaña
+noun | passager, passagère | pasajero, pasajera
+noun | plage | playa
+noun | port | puerto
+noun | rivière | río
+verb | rater (le bus, le train) | perder (el autobús, el tren)
+noun | tente | tienda de campaña, tienda
+noun | tourisme | turismo
+noun | touriste | turista
+noun | valise | maleta
+verb | voyager | viajar
+verb | visiter | visitar
+noun | ail | ajo
+noun | alcool | alcohol 
+noun | beurre | mantequilla
+noun | bière | cerveza
+verb | boire | beber
+noun | céréales | cereales
+verb | couper | cortar
+verb | cuire | cocer, cocinar
+noun | faim | hambre
+noun | fruit | fruta
+noun | lait | leche
+noun | légume | verdura
+verb | mélangé | mezclar
+noun | pâtes | pasta
+noun | poivre | pimienta
+verb | préparer | preparar
+noun | soif | sed
+noun | vin blanc | vino blanco
+noun | vin rouge | vino tinto
+expr | à emporter | para llevar
