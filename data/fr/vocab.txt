@@ -346,3 +346,152 @@ noun | soif | sed
 noun | vin blanc | vino blanco
 noun | vin rouge | vino tinto
 expr | à emporter | para llevar
+noun | l'addition | la cuenta
+noun | carte (menu) | carta (menú)
+verb | commander | pedir
+noun | couverts | cubiertos
+noun | déjeuner | almuerzo
+noun | dîner | cena
+noun | dessert | postre
+noun | entrée (plat) | entrante (plato)
+adje | frais, fraîche | fresco, fresca
+noun | goûter | merienda
+verb | goûter (un plat) | probar (un plato)
+verb | manger | comer
+noun | petit-déjeuner | desayuno
+noun | plat | plato
+noun | serveur, serveuse | camarero, camarera
+noun | repas | comida
+verb | servir | servir
+verb | acheter | comprar
+noun | bon marché | barato, barata
+noun | boucherie | carnicería
+noun | boulangerie | panadería
+noun | caissier, caissière | cajero, cajera
+noun | charcuterie | charcutería
+noun | centre commercial | centro comercial
+noun | courses (alimentaires) | compras (alimentación)
+verb | coûter | costar
+expr | en espèces | en efectivo
+noun | épicerie | tienda de ultramarinos, tienda de comestibles
+noun | libraiire | librería
+noun | marché | mercado
+noun | magasin | tienda
+verb | payer | pagar
+verb | peser | pesar
+noun | poissonnerie | pescadería
+noun | prix | precio
+noun | supermarché | supermercado
+noun | vendeur, vendeuse | vendedor, vendedora
+noun | ticket de caisse | ticket de compra, tiquet, recibo
+noun | coton | algodón
+noun | cuir | cuero
+noun | laine | lana
+adje | élégant, élégante | elegante
+verb | essayer | probarse
+noun | jean | vaqueros, tejanos
+noun | matière | material
+noun | mode | moda
+verb | mettre (un vêtement) | ponerse (una prenda)
+noun | modèle | modelo
+adje | orange | naranja
+noun | pointure | talla (zapatos), número
+verb | porter (un vêtement) | llevar, llevar puesta (una prenda)
+noun | pull | jersey
+noun | soldes | rebajas
+noun | sous-vêtements | ropa interior
+noun | taille | talla
+noun | vêtement | prenda
+adje | violet, violette | violeta
+noun | banlieue | periferia, afueras
+noun | bâtiiment | edificio
+noun | centre-ville | centro de la ciudad, centro
+noun | campagne | campo (rural)
+noun | champ | campo (área)
+noun | comissariat | comisaría
+noun | embouteillage, bouchon | atasco
+noun | espace vert | zona verde, espacio verde
+noun | fleur | flor
+noun | jardin | jardín
+noun | piéton, piétonne | peatón, peatona
+noun | pollution | contaminación
+noun | quartier | barrio
+verb | se balader | pasearse
+verb | se déplacer | desplazarse
+noun | troittoir | acera
+noun | village | pueblo
+noun | capitale (d'un pays) | capital (de un país)
+noun | continent | continente
+noun | côte | costa
+noun | désert | desierto
+adje | domestique (annimal) | doméstico (animal)
+noun | l'écologie | ecología
+noun | faune | fauna
+noun | flore | flora
+noun | lac | lago
+noun | monde | mundo
+noun | nature | naturaleza, natura
+noun | océan | océano
+noun | planète | planeta
+noun | région | región
+noun | rivière | río
+adje | sauvage (animaux) | salvaje (animales)
+noun | la Terre | la Tierra
+noun | automne | otoño
+verb | briller | brillar
+noun | climat | clima
+adje | couvert (temps) | cubierto (tiempo)
+noun | degreé | grado
+adje | doux, douce | suave
+noun | été | verano
+noun | hiver | invierno
+noun | météo | tiempo (meteorológico)
+adje | humide | húmedo
+verb | neiger | nevar
+verb | pleuvoir | llover
+noun | printemps | primavera
+noun | nuage | nube
+noun | orage | tormenta
+adje | sec, sèche | seco, seca
+noun | température | temperatura
+noun | vent | viento
+noun | aide | ayuda
+noun | ambassade | embajada
+noun | banque | banco
+noun | compte bancaire | cuenta bancaria
+noun | consulat | consulado
+noun | décès | fallecimiento
+noun | distributeur (de billets) | cajero automático
+noun | pompier | bombero
+verb | remplir | rellenar
+verb | retirer (de l'argent) | sacar (dinero)
+noun | secours | servicios de emergencia
+verb | allumer (un appareil) | encender (un aparato)
+noun | chaîne | cadena
+verb | chercher | buscar
+verb | écouter | escuchar
+noun | émission | programa, emisión
+expr | en ligne | en línea
+verb | éteindre (un appareil) | apagar (un aparato)
+verb | interviewer | entrevistar
+noun | journal | periódico
+noun | journaliste | periodista
+noun | magazine | revista
+noun | presse | prensa
+noun | publicité | publicidad
+verb | s'informer | informarse
+verb | taper | teclear
+verb | appeler | llamar
+noun | colis | paquete
+verb | communiquer | comunicar
+noun | courriel, e-mail | correo electrónico, e-mail
+verb | envoyer | enviar
+noun | guichet | ventanilla
+noun | identifiant | identificador
+noun | mot de passe | contraseña
+noun | paquet | paquete
+verb | poster | enviar por correo
+noun | timbre | sello
+noun | téléphone | teléfono
+noun | texto, SMS | texto, SMS
+verb | se connecter | conectarse
