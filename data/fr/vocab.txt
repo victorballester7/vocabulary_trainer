@@ -222,7 +222,7 @@ verb | skier | esquiar
 noun | stade | estadio
 noun | tennis | tenis
 noun | vélo | bicicleta
-noun | terrain (de tennis, de foot) | pista (de tenis, de fútbol)
+noun | terrain (de tennis / de foot) | pista (de tenis / de fútbol)
 adje | ancien, ancienne | antiguo, antigua
 noun | appartement | apartamento, piso
 noun | ascenseur | ascensor
@@ -319,7 +319,7 @@ noun | passager, passagère | pasajero, pasajera
 noun | plage | playa
 noun | port | puerto
 noun | rivière | río
-verb | rater (le bus, le train) | perder (el autobús, el tren)
+verb | rater (le bus / le train) | perder (el autobús / el tren)
 noun | tente | tienda de campaña, tienda
 noun | tourisme | turismo
 noun | touriste | turista

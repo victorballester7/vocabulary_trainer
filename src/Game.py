@@ -11,20 +11,22 @@ def pre_game():
   print("Which language do you want to learn?")
   print("1. English")
   print("2. French")
-  try:
-    i = int(input("Select a number: "))
-  except ValueError:
-    print("Please, enter a number.".format())
-    game_exit(0)
-    return
-  if i == 1:
-    return "en", "data/en/vocab.txt", "data/en/occurrences.txt", "data/en/incorrect.txt"
-  elif i == 2:
-    return "fr", "data/fr/vocab.txt", "data/fr/occurrences.txt", "data/fr/incorrect.txt"
-  else:
-    print("Please, enter a valid number.")
-    game_exit(0)
-    return
+  while (True):
+    try:
+      i = int(input("Select a number: "))
+      if i != 1 and i != 2:
+        print("Please, enter a valid number.")
+        continue
+    except KeyboardInterrupt:
+      game_exit(0)
+      return
+    except ValueError:
+      print("Please, enter a number.".format())
+      continue
+    if i == 1:
+      return "en", "data/en/vocab.txt", "data/en/occurrences.txt", "data/en/incorrect.txt"
+    else:  # i == 2:
+      return "fr", "data/fr/vocab.txt", "data/fr/occurrences.txt", "data/fr/incorrect.txt"
 
 
 # performs the comparison between the answered word and the correct word
@@ -37,7 +39,7 @@ def guess_word(n: int, file_occur: str, count: int, t: str):
   # s[::-1] revert the order of the string t. That is: 'fs' --> 'sf' and
   # 'sf' --> 'fs'.
   r = s[::-1]
-  print("\n{c} word:\t\t         ".format(c=text_format(s)), end="")
+  print("\n{c} word:\t\t\t".format(c=text_format(s)), end="")
   print(*choice(n, s)[0], sep=", ", end=" ")
   print("({0})".format(Words[n].wType()))
   try:
@@ -48,7 +50,7 @@ def guess_word(n: int, file_occur: str, count: int, t: str):
       first_char = Words[n].spa_word[0][0]
       nWords = min([i.count(" ") for i in Words[n].use_spa_word]) + 1
     guess = input(
-        "Guess {c} word ({c1} word/s):   {c2}".format(
+        "Guess {c} word ({c1} word/s):\t{c2}".format(
             c=text_format(r).lower(), c1=nWords, c2=first_char
         )
     )  # .lower() is to lowercase the word
@@ -79,24 +81,26 @@ def game(file_occur: str, file_incor: str):
   print("Which game do you want to play?\n")
   print(
       "1. Spanish -> {c}\n2. {c} -> Spanish\n3. Both types\n".format(c=language()))
-  try:
-    t = int(input())
-  except KeyboardInterrupt:
-    game_exit(0)
-    return
-  except ValueError:
-    print("Please, enter a number.")
-    return
-  if t == 1:
-    t = "sf"
-  elif t == 2:
-    t = "fs"
-  elif t == 3:
-    t = "b"
-  else:
-    print("Error entering the data.")
-    game_exit(0)
-    return
+
+  while (True):
+    try:
+      t = int(input())
+      if t != 1 and t != 2 and t != 3:
+        print("Please, enter a valid number.")
+        continue
+    except KeyboardInterrupt:
+      game_exit(0)
+      return
+    except ValueError:
+      print("Please, enter a number.".format())
+      continue
+    if t == 1:
+      t = "sf"
+    elif t == 2:
+      t = "fs"
+    else:  # t == 3:
+      t = "b"
+    break
   count = 0
   with open(file_incor, "r") as file:
     for i in file.readlines():
@@ -108,36 +112,37 @@ def game(file_occur: str, file_incor: str):
         print("\n")
   print("Which modality do you want to play?\n")
   for i, k in enumerate(dict.keys()):
-    print("{0}. Only {s}s (type '{c}')".format(i + 1, s=dict.get(k), c=k))
-  print("{0}. Any type of word (type '-')".format(len(dict) + 1))
-  try:
-    c = int(input())
-  except KeyboardInterrupt:
-    game_exit(count)
-    return
-  except ValueError:
-    print("Please, enter a number.")
-    return
-  if c == 1:
-    c = "verb"
-  elif c == 2:
-    c = "ph-v"
-  elif c == 3:
-    c = "noun"
-  elif c == 4:
-    c = "expr"
-  elif c == 5:
-    c = "adve"
-  elif c == 6:
-    c = "adje"
-  elif c == 7:
-    c = "prep"
-  elif c == 8:
-    c = "-"
-  else:
-    print("Error entering the data.")
-    game_exit(count)
-    return
+    print("{0}. Only {s}s".format(i + 1, s=dict.get(k)))
+  print("{0}. Any type of word".format(len(dict) + 1))
+  while (True):
+    try:
+      c = int(input())
+      if c not in range(1, len(dict) + 2):
+        print("Please, enter a valid number.")
+        continue
+    except KeyboardInterrupt:
+      game_exit(0)
+      return
+    except ValueError:
+      print("Please, enter a number.".format())
+      continue
+    if c == 1:
+      c = "verb"
+    elif c == 2:
+      c = "ph-v"
+    elif c == 3:
+      c = "noun"
+    elif c == 4:
+      c = "expr"
+    elif c == 5:
+      c = "adve"
+    elif c == 6:
+      c = "adje"
+    elif c == 7:
+      c = "prep"
+    else:  # if c == 8:
+      c = "-"
+    break
   print("Remember: 'Ctrl + C' to exit the game whenever you want. Let's play!\n")
   while True:
     n = cond_random()
