@@ -74,7 +74,7 @@ def game_exit(count: int, file_incor: str):
             c=count - len(Inc), t=count, s=(count - len(Inc)) / count))
         print(f"###############################\n{bcolors.ENDC}")
         if len(Inc) > 0:
-            print(f"{bcolors.FAIL}Summary of incorrect words:\n")
+            print(f"{bcolors.FAIL}Summary of incorrect words:{bcolors.ENDC}\n")
             for i in Inc:
                 print(*Words[i].foreign_word, sep=", ", end=": ")
                 print(*Words[i].spa_word, sep=", ")
