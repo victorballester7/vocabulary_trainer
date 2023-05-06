@@ -4,18 +4,6 @@ from FileHandling import upgrade_content
 from misc import *
 
 
-class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
-
-
 def pre_game():
     print("Welcome to the Vocabulary Trainer!")
     print("This program will help you to learn new words.")
@@ -29,7 +17,7 @@ def pre_game():
                 print("Please, enter a valid number.")
                 continue
         except KeyboardInterrupt:
-            game_exit(0)
+            game_exit(0, "")
             return
         except ValueError:
             print("Please, enter a number.".format())
@@ -41,7 +29,7 @@ def pre_game():
 
 
 # performs the comparison between the answered word and the correct word
-def guess_word(n: int, file_occur: str, count: int, t: str):
+def guess_word(n: int, file_occur: str, file_incor: str, count: int, t: str):
     if t == "b":
         # sf = spanish to foreign, fs = foreign to spanish
         s = random.choice(["sf", "fs"])
@@ -67,7 +55,7 @@ def guess_word(n: int, file_occur: str, count: int, t: str):
         )  # .lower() is to lowercase the word
         Guess = [first_char + guess, guess]
     except KeyboardInterrupt:
-        game_exit(count)
+        game_exit(count, file_incor)
         return
     G = [
         compare_strings(Guess[0], str) +
@@ -100,7 +88,7 @@ def game(file_occur: str, file_incor: str):
                 print("Please, enter a valid number.")
                 continue
         except KeyboardInterrupt:
-            game_exit(0)
+            game_exit(0, file_incor)
             return
         except ValueError:
             print("Please, enter a number.".format())
@@ -117,7 +105,7 @@ def game(file_occur: str, file_incor: str):
         for i in file.readlines():
             if count == 0:
                 print("Review of last day's game:\n")
-            guess_word(int(i), file_occur, count, t)
+            guess_word(int(i), file_occur, file_incor, count, t)
             count += 1
             if count == len(file.readline()):
                 print("\n")
@@ -132,7 +120,7 @@ def game(file_occur: str, file_incor: str):
                 print("Please, enter a valid number.")
                 continue
         except KeyboardInterrupt:
-            game_exit(0)
+            game_exit(0, file_incor)
             return
         except ValueError:
             print("Please, enter a number.".format())
@@ -159,10 +147,10 @@ def game(file_occur: str, file_incor: str):
     while count_rep < 10*len(Words):
         n = cond_random()
         if c == Words[n].type or c == "-":
-            guess_word(n, file_occur, count, t)
+            guess_word(n, file_occur, file_incor, count, t)
             count += 1
             count_rep = 0
         else:
             count_rep += 1
     print("There are no words of the type '{0}'.".format(c))
-    game_exit(count)
+    game_exit(count, file_incor)

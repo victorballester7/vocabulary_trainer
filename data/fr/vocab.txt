@@ -425,7 +425,7 @@ noun | continent | continente
 noun | côte | costa
 noun | désert | desierto
 adje | domestique (annimal) | doméstico (animal)
-noun | l'écologie | ecología
+noun | écologie | ecología
 noun | faune | fauna
 noun | flore | flora
 noun | lac | lago
@@ -495,3 +495,6 @@ noun | timbre | sello
 noun | téléphone | teléfono
 noun | texto, SMS | texto, SMS
 verb | se connecter | conectarse
+noun | jumeau, jumelle | gemelo, gemela
+adje | prochain, prochaine | próximo, próxima
+prep | pendant | durante
