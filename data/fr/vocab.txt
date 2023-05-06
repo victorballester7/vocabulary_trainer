@@ -498,3 +498,4 @@ verb | se connecter | conectarse
 noun | jumeau, jumelle | gemelo, gemela
 adje | prochain, prochaine | próximo, próxima
 prep | pendant | durante
+verb | réveiller | despertar
