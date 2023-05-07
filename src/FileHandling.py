@@ -3,6 +3,7 @@ import math
 from typing import TextIO
 from vars import *
 from misc import *
+from Word import word
 
 # reads the file "file_occur" and returns a list of integers corresponding
 # to the data in the file
@@ -24,12 +25,31 @@ def is_new_line(file: TextIO):
     if lines != L.count("\n"):
         file.write("\n")
 
+# returns the file name of the file with the words
+
+
+def getFileWords(lang: str):
+    return "data/{l}/vocab.txt".format(l=lang)
+
+# returns the file name of the file with the incorrect words
+
+
+def getFileIncor(lang: str):
+    return "data/{l}/incorrect.txt".format(l=lang)
+
+# returns the file name of the file with the occurrences of the words
+
+
+def getFileOccur(lang: str):
+    return "data/{l}/occurrences.txt".format(l=lang)
 
 # reads the data from the files "file_words" and "file_occur"
-def read_data(file_words: str, file_occur: str):
-    with open(file_words, "r") as file1:
+
+
+def read_data(lang: str, Words: list[word], Inc: list[int]):
+    with open(getFileWords(lang), "r") as file1:
         L1 = file1.readlines()
-    with open(file_occur, "r+") as file2:
+    with open(getFileOccur(lang), "r+") as file2:
         L2 = readlines_as_numbers(file2)
         # check the data of "file_occur"
         if len(L1) > len(L2):
@@ -56,12 +76,34 @@ def read_data(file_words: str, file_occur: str):
         X.setFreq(freq)
         if X.setEngWord() == 1 or X.setSpaWord() == 1:
             print("Problem reading the word {s}.".format(s=X.foreign_word))
-            game_exit(0, file_incor)
+            game_exit(0, lang, Words, Inc)
         Words.append(X)
 
 
 # upgrade the content in "file_occur"
-def upgrade_content(file_name: str):
-    with open(file_name, "w") as file:
+def upgrade_content(lang: str, Words: list[word]):
+    with open(getFileOccur(lang), "w") as file:
         for i in Words:
             file.write(str(i.occur) + "\n")
+
+
+# game function for finishing the game
+
+
+def game_exit(count: int, lang: str, Words: list[word], Inc: list[int]):
+    if len(Inc) > 0:
+        with open(getFileIncor(lang), "w") as file:
+            for i in Inc:
+                file.write(str(i) + "\n")
+    if count != 0:
+        print(f"{bcolors.OKGREEN}\n\n###############################")
+        print("Correct answers: {c}/{t}\nFrequency of success: {s:.3f}".format(
+            c=count - len(Inc), t=count, s=(count - len(Inc)) / count))
+        print(f"###############################\n{bcolors.ENDC}")
+        if len(Inc) > 0:
+            print(f"{bcolors.FAIL}Summary of incorrect words:{bcolors.ENDC}\n")
+            for i in Inc:
+                print(*Words[i].foreign_word, sep=", ", end=": ")
+                print(*Words[i].spa_word, sep=", ")
+    print(f"{bcolors.WARNING}\nExiting the program.{bcolors.ENDC}")
+    sys.exit(0)

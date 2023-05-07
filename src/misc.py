@@ -6,8 +6,6 @@ from vars import *
 from Word import word
 # I put this here (and not in vars.py) because if I put it in vars.py, it
 # would result in a circular import.
-Words: list[word] = []  # list of words
-Inc: list[int] = []  # list of incorrect words
 
 
 class bcolors:
@@ -22,7 +20,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 
-def cond_random():
+def cond_random(Words: list[word]):
     x = random.random()
     i = 0
     while 1 > 0:
@@ -37,46 +35,27 @@ def compare_strings(str1: str, str2: str):
     return str1 == str2
 
 
-def language():
+def language(lang: str):
     if lang == "en":
         return "English"
     else:  # lang == "fr":
         return "French"
 
 
-def text_format(t: str):
-    if t == "fs":
+def text_format(t: str, lang: str):
+    if t == "fs":  # foreign to spanish
         if lang == "en":
             return "English"
-        else:  # lang == "fr":
+        elif lang == "fr":
             return "French"
-    else:
+        else:
+            return "NOT DEFINED"
+    else:  # t == "sf":  # spanish to foreign
         return "Spanish"
 
 
-def choice(n: int, t: str):
+def choice(n: int, t: str, Words: list[word]):
     if t == "fs":
         return [Words[n].foreign_word, Words[n].use_foreign_word]
     else:
         return [Words[n].spa_word, Words[n].use_spa_word]
-
-# game function for finishing the game
-
-
-def game_exit(count: int, file_incor: str):
-    if len(Inc) > 0:
-        with open(file_incor, "w") as file:
-            for i in Inc:
-                file.write(str(i) + "\n")
-    if count != 0:
-        print(f"{bcolors.OKGREEN}\n\n###############################")
-        print("Correct answers: {c}/{t}\nFrequency of success: {s:.3f}".format(
-            c=count - len(Inc), t=count, s=(count - len(Inc)) / count))
-        print(f"###############################\n{bcolors.ENDC}")
-        if len(Inc) > 0:
-            print(f"{bcolors.FAIL}Summary of incorrect words:{bcolors.ENDC}\n")
-            for i in Inc:
-                print(*Words[i].foreign_word, sep=", ", end=": ")
-                print(*Words[i].spa_word, sep=", ")
-    print(f"{bcolors.WARNING}\nExiting the program.{bcolors.ENDC}")
-    sys.exit(0)

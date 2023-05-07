@@ -11,7 +11,3 @@ dict = {  # all keys must have the same length
     "adje": "adjective",
     "prep": "preposition",
 }
-lang = ""  # language of the game
-file_words = ""  # file with the words
-file_occur = ""  # file with the occurrences of each word
-file_incor = ""  # file with the incorrect words
