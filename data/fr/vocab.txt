@@ -134,7 +134,7 @@ noun | maître, maîtresse | maestro, maestra
 verb | obtenir | obtener
 verb | rater (un examen) | suspender
 verb | réussir (un examen) | aprobar
-verb | réviser | repasar
+verb | réviser | repasar, estudiar
 verb | s'inscrire | inscribirse, matricularse
 noun | stage | prácticas
 noun | bureau | despacho, oficina
