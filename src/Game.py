@@ -40,22 +40,23 @@ def guess_word(n: int, lang: str, count: int, t: str, Words: list[word], Inc: li
     # s[::-1] revert the order of the string t. That is: 'fs' --> 'sf' and
     # 'sf' --> 'fs'.
     r = s[::-1]
-    print("\n{c} word:\t\t\t".format(c=text_format(s, lang)), end="")
+    print("\nWord number {0}\n".format(count+1), end="")
+    print("{c} word:\t\t\t".format(c=text_format(s, lang)), end="")
     print(*choice(n, s, Words)[0], sep=", ", end=" ")
     print("({0})".format(Words[n].wType()))
     try:
         if s == "sf":
             nWords = min([i.count(" ") for i in Words[n].use_foreign_word]) + 1
             j = 0
-            while (Words[n].foreign_word[j].count(" ") > nWords - 1):
+            while (Words[n].use_foreign_word[j].count(" ") > nWords - 1):
                 j += 1
-            first_char = Words[n].foreign_word[j][0]
+            first_char = Words[n].use_foreign_word[j][0]
         else:
             nWords = min([i.count(" ") for i in Words[n].use_spa_word]) + 1
             j = 0
-            while (Words[n].spa_word[j].count(" ") > nWords - 1):
+            while (Words[n].use_spa_word[j].count(" ") > nWords - 1):
                 j += 1
-            first_char = Words[n].spa_word[j][0]
+            first_char = Words[n].use_spa_word[j][0]
         guess = input(
             "Guess {c} word ({c1} word/s):\t{c2}".format(
                 c=text_format(r, lang).lower(), c1=nWords, c2=first_char
@@ -72,7 +73,8 @@ def guess_word(n: int, lang: str, count: int, t: str, Words: list[word], Inc: li
     ]
     if sum(G) > 0:  # check if at least there is one correct answer
         print(f"{bcolors.OKGREEN}Correct!\n{bcolors.ENDC}")
-        Words[n].occur -= 1
+        if Words[n].occur > 0:
+            Words[n].occur -= 1
     else:
         if Inc.count(n) == 0:
             Inc.append(n)

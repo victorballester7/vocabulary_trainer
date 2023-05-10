@@ -10,7 +10,7 @@ from Word import word
 
 
 def readlines_as_numbers(file: TextIO):
-    L = [int(x[0]) for x in file.readlines()]
+    L = [int(x) for x in file.readlines()]
     return L
 
 # detect whether or not the file ends with a character '\n'. If it does,

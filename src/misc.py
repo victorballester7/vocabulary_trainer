@@ -24,7 +24,7 @@ def cond_random(Words: list[word]):
     x = random.random()
     i = 0
     while 1 > 0:
-        if x < Words[i].cum_freq:
+        if x <= Words[i].cum_freq:
             return i
         i = i + 1
     return 0

@@ -159,6 +159,7 @@ noun | vacanes | vacaciones
 verb | emmener | llevar, llevar a alguien
 expr | bien sûr | por supuesto, obviamente
 adje | vieux, vieil, vieille | viejo, vieja
+verb | vieillir | envejecer
 adje | plein | lleno, llena
 noun | envie | gana, deseo
 noun | activité | actividad
@@ -248,7 +249,7 @@ noun | propriétaire | propietario, dueño
 noun | rez-de-chaussée | planta baja
 noun | studio | estudio
 noun | table | mesa
-noun | toilettes | aseos
+noun | toilette | aseo
 noun | voisin, voisine | vecino, vecina
 noun | aspirateur | aspiradora
 noun | balai | escoba
@@ -401,7 +402,7 @@ noun | pull | jersey
 noun | soldes | rebajas
 noun | sous-vêtements | ropa interior
 noun | taille | talla
-noun | vêtement | prenda
+noun | vêtement | prenda de vestir, prenda
 adje | violet, violette | violeta
 noun | banlieue | periferia, afueras
 noun | bâtiiment | edificio
@@ -491,7 +492,7 @@ noun | identifiant | identificador
 noun | mot de passe | contraseña
 noun | paquet | paquete
 verb | poster | enviar por correo
-noun | timbre | sello
+noun | timbre (postal) | sello (de correos)
 noun | téléphone | teléfono
 noun | texto, SMS | texto, SMS
 verb | se connecter | conectarse
@@ -499,3 +500,4 @@ noun | jumeau, jumelle | gemelo, gemela
 adje | prochain, prochaine | próximo, próxima
 prep | pendant | durante
 verb | réveiller | despertar
+verb | souvenier | recordar
