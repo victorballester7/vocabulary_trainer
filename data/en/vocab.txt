@@ -93,8 +93,8 @@ adje | violent | violento
 adje | virtual | virtual
 verb | yawn | bostezar
 noun | airline | compañía aérea, línea aérea
-noun | approach (move closley) | acercamiento
-verb | approach (move closley) | acercarse
+noun | approach (move closely) | acercamiento
+verb | approach (move closely) | acercarse
 noun | backpacker | mochilero
 ph-v | book (sb) into | reservar una habitación de hotel para alguien
 noun | cabin | cabaña
@@ -706,7 +706,7 @@ noun | coat | abrigo
 adje | overwhelming | arrollador, aplastante, enorme 
 adje | well-built | formido, corpulento
 noun | staircase | escalera
-adje | sombre | sombrio, serio, apagado, oscuro
+adje | sombre | sombrío, serio, apagado, oscuro
 adje | lit | iluminado, alumbrado
 verb | bleak | lúgubre, desolador, desalentador
 P | toss and turn | dar vueltas en la cama
@@ -1112,10 +1112,10 @@ noun | refuse collector | basurero
 noun | roots | raíces
 adje | run-of-the-mill | el típico, común y corriente
 noun | salon | salón de belleza, peluquería
-noun | shelf stacker | persona que reemplaza productos en una estanteria de una tienda, reponedor, almacenero
+noun | shelf stacker | persona que reemplaza productos en una estanteria de una tienda, reponero, almacenero
 ph-v | shine through | verse, notarse
 ph-v | shoot off | salir disparado
-noun | stockbroker | corredor de bolsa (comprarador y vendedor de acciones)
+noun | stockbroker | corredor de bolsa (comprador y vendedor de acciones)
 verb | triple | triplicar
 expr | be up to no good | estar tramando algo malo
 noun | work experience | experiencia laboral, prácticas (de un estudiante)
@@ -1348,7 +1348,7 @@ verb | host | alojar, acoger
 noun | insight | conocimiento, percepción
 noun | instinct | instinto
 noun | intuition | intuición
-noun | letter of application, letter of recomendation | carta de solicitud
+noun | letter of application, letter of recommendation | carta de solicitud
 adve | literally | literalmente
 verb | manipulate | manipular
 noun | negativity | negatividad

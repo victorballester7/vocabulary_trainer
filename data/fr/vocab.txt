@@ -46,7 +46,7 @@ noun | sens | sentidos
 verb | sentir | sentir
 noun | son | sonido
 noun | toucher | tacto
-noun | visage | cara
+noun | visage | cara (rostro)
 noun | yeux | ojos
 noun | vue | vista
 verb | voir | ver
@@ -62,8 +62,7 @@ adje | laid, laide | feo, fea
 adje | léger, légère | ligero, ligera
 adje | lent, lente | lento, lenta
 adje | lourd, lourde | pesado, pesada
-adje | maigre | delgado, delgada
-adje | mincre | flaco, flaca
+adje | maigre | delgado, delgada, flaco, flaca
 adje | petit, petite | pequeño, pequeña
 adje | roux, rousse | pelirrojo, pelirroja
 adje | vert, verte | verde
@@ -92,13 +91,13 @@ noun | maladie | enfermedad
 noun | médecin, médecine | médico
 noun | radiologie | radiología
 noun | rhume | resfriado
-noun | santé | salud
+noun | santé | salud, sanidad
 verb | ser blessé | estar herido, herirse
 verb | se brûler | quemarse
 verb | se casser (une jambe) | romperse (una pierna)
 verb | se couper | cortarse
 verb | se faire mal | hacerse daño
-verb | se soligner | curarse
+verb | se soigner | curarse
 verb | tousser | toser
 noun | urgences | urgencias
 noun | assurance maladie | seguro médico, seguro de enfermedad
@@ -108,7 +107,7 @@ noun | comprimé | comprimido
 noun | certificat médical | certificado médico
 noun | consultation | consulta
 noun | dentiste | dentista
-noun | infermier, infirmière | enfermero, enfermera
+noun | infirmier, infirmière | enfermero, enfermera
 noun | médicament | medicamento
 noun | opération | operación
 noun | pansemant | vendaje, tirita
@@ -116,7 +115,7 @@ noun | ordonnance | receta
 noun | piqûre | inyección
 noun | pris de sang | muestra de sangre
 noun | remboursement | reembolso
-noun | rendex-vous | cita
+noun | rendez-vous | cita
 noun | vaccin | vacuna
 noun | baccalauréat | bachillerato
 noun | cantine | comedor
@@ -151,11 +150,11 @@ noun | métier | oficio
 noun | patron | jefe
 noun | profession | profesión
 noun | retraite | jubilación
-noun | salair | salario
+noun | salaire | salario
 noun | syndicat | sindicato
 noun | travail | trabajo
 noun | usine | fábrica
-noun | vacanes | vacaciones
+noun | vacances | vacaciones
 verb | emmener | llevar, llevar a alguien
 expr | bien sûr | por supuesto, obviamente
 adje | vieux, vieil, vieille | viejo, vieja
@@ -227,7 +226,7 @@ noun | terrain (de tennis / de foot) | pista (de tenis / de fútbol)
 adje | ancien, ancienne | antiguo, antigua
 noun | appartement | apartamento, piso
 noun | ascenseur | ascensor
-adje | bruyaunt, bruyante | ruidoso, ruidosa
+adje | bruyant, bruyante | ruidoso, ruidosa
 noun | chaise | silla
 noun | chambre | habitación
 noun | chauffage | calefacción
@@ -254,7 +253,7 @@ noun | voisin, voisine | vecino, vecina
 noun | aspirateur | aspiradora
 noun | balai | escoba
 noun | brosse à dents | cepillo de dientes
-noun | dentifríce | pasta de dientes
+noun | dentifrice | pasta de dientes
 noun | ménage | limpieza
 verb | nettoyer | limpiar
 adje | propre | limpio, limpia
@@ -280,7 +279,7 @@ verb | élire | elegir
 noun | fraternité | fraternidad
 noun | liberté | libertad
 noun | loi | ley
-noun | maire, mairiesse | alcalde, alcaldesa
+noun | maire, mairesse | alcalde, alcaldesa
 noun | parti (politique) | partido (político)
 noun | racisme | racismo
 noun | société | sociedad
@@ -339,7 +338,7 @@ noun | faim | hambre
 noun | fruit | fruta
 noun | lait | leche
 noun | légume | verdura
-verb | mélangé | mezclar
+verb | mélanger | mezclar
 noun | pâtes | pasta
 noun | poivre | pimienta
 verb | préparer | preparar
@@ -384,7 +383,7 @@ noun | poissonnerie | pescadería
 noun | prix | precio
 noun | supermarché | supermercado
 noun | vendeur, vendeuse | vendedor, vendedora
-noun | ticket de caisse | ticket de compra, tiquet, recibo
+noun | ticket de caisse | ticket de compra, tique, recibo
 noun | coton | algodón
 noun | cuir | cuero
 noun | laine | lana
@@ -405,11 +404,11 @@ noun | taille | talla
 noun | vêtement | prenda de vestir, prenda
 adje | violet, violette | violeta
 noun | banlieue | periferia, afueras
-noun | bâtiiment | edificio
+noun | bâtiment | edificio
 noun | centre-ville | centro de la ciudad, centro
 noun | campagne | campo (rural)
 noun | champ | campo (área)
-noun | comissariat | comisaría
+noun | commissariat | comisaría
 noun | embouteillage, bouchon | atasco
 noun | espace vert | zona verde, espacio verde
 noun | fleur | flor
@@ -419,13 +418,13 @@ noun | pollution | contaminación
 noun | quartier | barrio
 verb | se balader | pasearse
 verb | se déplacer | desplazarse
-noun | troittoir | acera
+noun | trottoir | acera
 noun | village | pueblo
 noun | capitale (d'un pays) | capital (de un país)
 noun | continent | continente
 noun | côte | costa
 noun | désert | desierto
-adje | domestique (annimal) | doméstico (animal)
+adje | domestique (animal) | doméstico (animal)
 noun | écologie | ecología
 noun | faune | fauna
 noun | flore | flora
@@ -442,7 +441,7 @@ noun | automne | otoño
 verb | briller | brillar
 noun | climat | clima
 adje | couvert (temps) | cubierto (tiempo)
-noun | degreé | grado
+noun | degré | grado
 adje | doux, douce | suave
 noun | été | verano
 noun | hiver | invierno
@@ -500,4 +499,33 @@ noun | jumeau, jumelle | gemelo, gemela
 adje | prochain, prochaine | próximo, próxima
 prep | pendant | durante
 verb | réveiller | despertar
-verb | souvenier | recordar
+verb | souvenir | recordar
+verb | se dépêcher | darse prisa
+adve | tôt | temprano
+adve | vite | rápido
+adve | assez | bastante, suficiente
+noun | logiciel | software
+noun | retrouvailles | reencuentro
+noun | neige | nieve
+noun | pluie | lluvia
+verb | raffoler | encantar
+expr | faire son deuil | aceptar que algo acabó, aceptar la pérdida
+adje | incontournable | imprescindible, esencial
+verb | découler | resultar de, derivar de
+expr | faire preuve de | demostrar
+noun | paix | paz
+noun | vague | ola
+noun | solde | sueldo
+noun | réduction | rebaja
+noun | peau | piel
+noun | sorcière | bruja
+noun | ivre | ebrio, borracho
+noun | saoul | borracho
+noun | succès | éxito
+noun | rêve | sueño
+noun | cauchemar | pesadilla
+expr | rendre visite (à quelqu'n) | hacer una visita, visitar (a alguien)
+verb | profiter | disfrutar
+adve | vite | rápido
+adje | pire | peor, más malo
+expr | faire de la randonnée | hacer senderismo
