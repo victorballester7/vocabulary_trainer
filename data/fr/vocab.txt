@@ -115,7 +115,7 @@ noun | ordonnance | receta
 noun | piqûre | inyección
 noun | pris de sang | muestra de sangre
 noun | remboursement | reembolso
-noun | rendez-vous | cita
+noun | rendez-vous | cita, encuentro
 noun | vaccin | vacuna
 noun | baccalauréat | bachillerato
 noun | cantine | comedor
@@ -304,7 +304,7 @@ noun | rue | calle
 verb | se garer | aparcar
 noun | station (de métro) | estación (de metro)
 noun | station-service | estación de servicio
-verb | tourner | girar 
+verb | tourner | girar
 noun | transports en commun | transporte público
 noun | campagne | campo
 verb | camper | acampar
@@ -339,7 +339,7 @@ noun | fruit | fruta
 noun | lait | leche
 noun | légume | verdura
 verb | mélanger | mezclar
-noun | pâtes | pasta
+noun | pâtes (italiennes) | pasta (italiana)
 noun | poivre | pimienta
 verb | préparer | preparar
 noun | soif | sed
@@ -391,7 +391,7 @@ adje | élégant, élégante | elegante
 verb | essayer | probarse
 noun | jean | vaqueros, tejanos
 noun | matière | material
-noun | mode | moda
+noun | mode (vêtements) | moda (ropa)
 verb | mettre (un vêtement) | ponerse (una prenda)
 noun | modèle | modelo
 adje | orange | naranja
@@ -529,3 +529,13 @@ verb | profiter | disfrutar
 adve | vite | rápido
 adje | pire | peor, más malo
 expr | faire de la randonnée | hacer senderismo
+prep | sous | bajo, debajo de
+verb | parcourir | recorrer
+adve | hélas | desgraciadamente
+adje | aucun | ningún, ninguna
+noun | besoin | necesidad
+prep | jusqu'à | hasta
+expr | être en train de | estar en proceso de
+verb | classer | clasificar, organizar
+expr | lorsque | cuando, mientras que
+verb | écrier | exclamar
