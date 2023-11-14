@@ -539,3 +539,11 @@ expr | être en train de | estar en proceso de
 verb | classer | clasificar, organizar
 expr | lorsque | cuando, mientras que
 verb | écrier | exclamar
+verb | accueillir | acoger, recibir
+expr | à l'endroit | al derecho
+expr | à l'envers | al revés
+expr | à plein voix | a viva voz
+noun | abbaye | abadía
+verb | accédér à | acceder a
+noun | acte | acto
+adje | actif, active | activo, activa
