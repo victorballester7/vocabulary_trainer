@@ -1,5 +1,6 @@
-.vscode
+**/.vscode/**
 **/__pycache__/**
-**/data/**
-!data/**/vocab.txt
-!data/fr/default/incorrect.txt
+**/data/??/**
+!**/data/??/vocab.txt
+!**/data/??/default/
+!**/data/??/default/*.txt

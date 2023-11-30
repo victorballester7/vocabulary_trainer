@@ -1,0 +1,2047 @@
+verb | anticipate | anticipar
+noun | assertion | afirmación
+expr | believe wholeheartedly | estar completamente convencido
+expr | choose wisely | elegir sabiamente, escoger sabiamente
+adje | clueless | desinformado
+expr | come back to haunt you | regresar para atormentarte
+expr | courage in the face of an affliction | valor ante el sufrimiento
+expr | critical thinking skills | capacidad de pensamiento crítico
+expr | enquiring mind | mente inquisitiva
+noun | eye-opener | revelación
+expr | go to incredible lengths | llegar a extremos increíbles
+noun | extent | alcance
+verb | cope | salir adelante, superar
+verb | portray | retratar, representar
+ph-v | add to (sth) | añadir
+noun | bargain | ganga
+noun | bracelet | pulsera, brazalete
+adje | casual | informal, casual
+noun | comparison | comparación
+ph-v | cut down (sth), cut (sth) down | reducir
+verb | distinguish | distinguir
+verb | dominate | dominar
+ph-v | dress up | vestirse de gala
+ph-v | fit in (with) | pegar, encajar, armonizar
+adje | genuine | genuino, auténtico, real, lícito
+ph-v | go ahead | dar luz verde, llevar a cabo, seguir adelante, continuar
+ph-v | go back | volver
+ph-v | go for (sth) (choose) | escoger
+ph-v | go on | ocurrir
+ph-v | go out | salir, marchar
+ph-v | go over (sth) | repasar
+ph-v | go up | subir
+noun | hood | capucha
+noun | helmet | casco
+noun | image | imagen
+ph-v | keep up (with sb/sth) | seguir, comprender
+noun | label | etiqueta, marca (marcar)
+noun | matter | tema, cuestión
+noun | outfit | conjunto de ropa, traje, ropa
+adje | outrageous | chocante, extremo
+ph-v | pull on (sth), pull (sth) on | vestirse rápidamente
+ph-v | put together (sth), put (sth) together | combinar, juntar
+verb | represent | representar
+ph-v | save up (sth), save (sth) up | ahorrar
+adve | slightly | ligeramente
+ph-v | slip on (sth), slip (sth) on | ponerse rápido algo de ropa
+adje | smart (stylish) | elegante
+noun | stall | puesto, caseta (de un mercado)
+ph-v | stand out | distinguirse, destacar
+noun | stuff | cosas
+adje | stunning | increíble, impresionante, asombroso
+adje | stylish | estiloso
+noun | sweatshirt | suéter, jersey
+ph-v | take back (sth), take (sth) back | devolver (algo comprado)
+ph-v | take off (sth), take (sth) off (remove) | quitar
+adje | accessible | accesible
+noun | action | acción
+noun | appliance | electrodoméstico
+noun | application, app | aplicación, app
+adje | complex | complejo
+noun | control | control, autoridad
+adje | demanding | exigente
+adje | disappointed | decepcionado
+noun | facility | instalación, servicio
+adje | favourable | favorable
+noun | feature | característica
+ph-v | find out (sth), find (sth) out | descubrir
+noun | fortune | fortuna
+ph-v | get through (sth) (survive) | terminar, acabar, superar
+noun | goal | objetivo
+verb | Google | buscar en Google, googlear
+noun | graphics | gráficos
+adje | hopeless (person) | incapaz, muy malo en algo
+adje | impressive | impresionante
+noun | intelligence | inteligencia
+adje | meaningful | significativo
+adje | messy | desorganizado, desordenado
+adje | muddy | embarrado
+noun | opponent | oponente
+noun | pace | ritmo
+noun | popularity | popularidad
+verb | reach a conclusion | concluir, llegar a una conclusión
+noun | review | reseña
+verb | solve | resolver
+adje | sophisticated | sofisticado
+noun | soundtrack | banda sonora
+verb | submit | enviar, presentar (un documento / un plan...)
+adje | tricky | delicado, difícil
+ph-v | turn on (sth), turn (sth) on | encender
+adje | unhelpful | que no ayuda
+noun | version | versión
+adje | violent | violento
+adje | virtual | virtual
+verb | yawn | bostezar
+noun | airline | compañía aérea, línea aérea
+noun | approach (move closely) | acercamiento
+verb | approach (move closely) | acercarse
+noun | backpacker | mochilero
+ph-v | book (sb) into | reservar una habitación de hotel para alguien
+noun | cabin | cabaña
+noun | campsite | camping
+ph-v | check in | presentarse en recepción, check in
+ph-v | check out | dejar la habitación de hotel y pagar la cuenta, check out
+noun | cliff | acantilado
+noun | coast | costa
+noun | crew | tripulación
+noun | destination | destino
+verb | disturb | cambiar de sitio, molestar
+adje | domestic | nacional, doméstico, casero
+noun | evidence | prueba, evidencia
+noun | expedition | expedición
+noun | ferry | ferry
+ph-v | fill in (sth), fill (sth) in | rellenar, completar (un formulario...)
+verb | forbid | prohibir
+noun | friendship | amistad
+ph-v | get away | ir de vacaciones
+ph-v | get in | llegar (un tren/a casa), entrar
+expr | get rid of (sth) | deshacerse de
+noun | ground | tierra
+noun | harbour | puerto
+verb | land | aterrizar
+noun | landing | aterrizaje
+ph-v | set off | salir de viaje
+ph-v | stop over | hacer escala, hacer noche
+ph-v | take off (a plane) | despegar (un avión)
+noun | terminal | terminal
+noun | travel agent | agente de viajes
+noun | wildlife | fauna y flora
+noun | yacht | yate
+ph-v | can't stand (sb/sth) | odiar, caer mal, no soportar
+verb | cheer | animar
+noun | course (sport) | pista de carreras, campo de golf
+noun | course (lessons) | curso
+noun | court (sport) | pista (para practicar deportes)
+expr | do business (with sb) | hacer negocios con, hacer negocios
+expr | do damage | hacer daño
+expr | do (sb) a favour | hacer un favor
+expr | do (sth) for a living | hacer algo para ganarse la vida
+ph-v | do without (sb/sth) | arreglarselas, apañarse
+noun | extreme sport | deporte extremo
+ph-v | fall apart | derrumbarse, desmoronarse, colapsar (una persona)
+ph-v | fall for (sb) | enamorarse de, enamorarse
+ph-v | fall out (with sb) | enfadarse con, enfadarse
+ph-v | fall through | fracasar
+noun | field | campo
+noun | fitness | forma física
+noun | gym | gimnasio
+noun | gymnastics | gimnasia
+verb | ice skate | patinaje sobre hielo
+noun | lap | vuelta (a la pista)
+noun | net | red
+noun | penalty | penalti
+noun | pitch | cancha, terreno de juego
+noun | referee | árbitro
+expr | take a risk | arriesgarse
+verb | row (sport) | remar
+adje | scary | que da miedo, escalofriante
+verb | ski | esquiar
+noun | spectator | espectador
+noun | squash | squash
+noun | team | equipo
+noun | track | pista
+verb | affect | afectar, influir
+ph-v | be accustomed to (sth/doing sth) | estar acostumbrado a
+ph-v | be friends with | ser amigo de
+adje | confident | confiado, seguro
+adje | critical | crítico
+verb | disapprove | desaprobar
+ph-v | get on (with sb) | llevarse bien, caerse bien
+noun | housework | tareas domésticas, tareas de casa
+expr | keep a promise | mantener una promesa
+expr | break a promise | romper una promesa
+expr | keep a secret | guardar un secreto
+expr | keep (sb) awake | mantener despierto
+noun | kid | niño
+expr | make a fortune | hacer una fortuna
+expr | make friends (with sb) | hacerse amigo de
+noun | mood | estado de ánimo
+noun | neighbourhood | vecindario, barrio
+adje | proud | orgulloso
+adje | selfish | egoísta
+adje | sensible | sensato
+verb | share | compartir
+noun | storey | piso (nivel de un edificio)
+verb | struggle (try) | esforzarse
+verb | taste good | saber bien
+verb | taste sweet | saber dulce
+verb | admit | admitir
+verb | advertise | anunciar, hacer publicidad, promocionar
+noun | brand | marca
+noun | budget | presupuesto
+noun | character | personaje
+noun | commercial | anuncio
+noun | deadline | fecha límite
+verb | doubt | dudar
+adje | dramatic | espectacular
+noun | element | elemento
+noun | ending | final, desenlace
+adje | huge | enorme
+noun | location | ubicación
+noun | message | mensaje
+adje | narrow | estrecho
+noun | personality | personalidad, celebridad
+adje | powerful | poderoso, potente
+noun | production | producción
+verb | reckon | creer, considerar
+noun | setting (place) | escenario, donde un libro está ambientado (libro o obra o película)
+adje | shallow | poco profundo
+verb | stress (emphasize) | destacar
+noun | view (opinion) | punto de vista
+expr | what's more | es más, además
+noun | access | acceso
+noun | achievement | logro
+adve | at first | al principio
+adve | at last | al final
+adve | at least | al menos
+adve | at once | inmediatamente
+adje | at peace | en paz
+adve | at present | ahora
+adve | at rest | en reposo
+adve | at the same time | al mismo tiempo
+adje | at war | en guerra
+adje | commercial | comercial
+noun | concept | concepto
+noun | decade | década
+noun | expedition | expedición
+adje | illegal | ilegal
+adje | immoral | inmoral
+adje | impatient | impaciente
+adje | inappropriate | inapropiado
+adje | inexperienced | inexperto
+adje | irregular | irregular
+adje | irresponsible | irresponsable
+noun | need | necesidad
+noun | proposal | propuesta
+verb | prove | probar
+noun | rocket | cohete
+adje | scientific | científico
+adje | significant | importante, significativo
+noun | solution | solución
+noun | space | espacio
+verb | sponsor | patrocinar
+noun | technology | tecnología
+noun | willingness | disposición, inclinación, voluntad
+adje | aggressive | agresivo
+verb | blush | ruborizarse, sonrojarse
+adje | bossy | mandón
+noun | characteristic | característica
+adje | cheerful | feliz, animado, alegre
+adje | competitive | competitivo
+adje | demanding | exigente
+verb | discourage | desanimar, disuadir, desalentar
+adje | identical | idéntico, idénticos
+noun | identity | identidad
+adje | impatient | impaciente
+adje | jealous | celoso
+adje | lazy | vago
+adje | loyal | fiel
+noun | only child | hijo único, hija única
+adje | optimistic | optimista
+verb | resemble | parecerse
+noun | similarity | similitud
+adje | stubborn | tozudo
+expr | take account of | tener en cuenta
+ph-v | take after (sb) | parecerse, ser parecido (a un miembro de la familia)
+expr | take charge | hacerse cargo
+expr | take for granted | dar por hecho
+ph-v | take off (success) | despegar, tener éxito rápidamente
+ph-v | take out (sth), take (sth) out | sacar, extraer
+expr | take (sb/sth) seriously | tomar en serio, tomarse en serio
+expr | take turns | hacer turnos
+noun | twin | gemelo
+adje | unpopular | impopular
+adje | unreliable | poco fiable
+adje | witty | ingenioso
+noun | appliance | electrodoméstico
+noun | attic | ático
+noun | cart | carrito
+expr | come to a conclusion | llegar a una conclusión
+expr | come to a decision | tomar una decisión
+noun | crockery | vajilla
+adje | crunchy | crujiente
+noun | cutlery | cubertería, cubiertos
+verb | devise | inventar, idear
+verb | duplicate | duplicar, volver a hacer
+expr | fall asleep | dormirse
+expr | fall ill | ponerse enfermo
+expr | fall in love | enamorarse de, enamorarse
+adje | fed up | harto, cansado
+verb | fulfil (satisfy) | cumplir, satisfacer
+noun | groceries | provisiones
+noun | infection | infección
+noun | inventor | inventor
+verb | research | investigar
+noun | ritual | ritual
+adje | soggy | empapado
+adje | stale | rancio, duro, seco (el pan por ejemplo)
+verb | stick | pegar (con pegamento)
+noun | substance | sustancia
+noun | suspicion | sospecha
+ph-v | talk (sb) into (doing sth) | persuadir, convencer
+ph-v | tell (sb/sth) apart | distinguir
+expr | tell a lie | mentir, decir una mentira
+expr | tell a story | contar una historia
+verb | transform | transformar
+verb | accuse | acusar
+verb | affect | influir, afectar
+noun | ambition | ambición
+verb | apologise, apologize | disculparse
+verb | claim | afirmar, asegurar
+verb | deny | negar
+verb | educate | educar
+adje | educated | educado, culto
+adje | educational | educativo
+ph-v | face up to | hacer frente a, encarar a, enfrentar a, confortar a
+verb | feel (opinion) | pensar, opinar
+verb | insist | insistir
+verb | mention | mencionar
+noun | opportunity | oportunidad
+noun | performance (success) | rendimiento
+noun | position (job) | trabajo, puesto
+noun | progress | progreso
+verb | promise | prometer
+noun | qualification | diploma
+verb | refuse, reject | rechazar
+adje | relevant | relevante
+noun | standard | estándar
+verb | urge | urgir, instar
+verb | warn | advertir
+verb | wish | desear
+adje | adventurous | aventurero
+adve | above all | sobre todo
+adve | all along | desde el principio
+adve | all in all | en resumidas cuentas, en definitiva, después de todo
+adve | all of a sudden | de repente
+adve | at all | en absoluto
+noun | career | carrera, profesión
+noun | commitment | compromiso
+adje | concerned | preocupado
+adje | dishonest | deshonesto
+adje | disorganised | desorganizado
+adje | dissatisfied | descontento, insatisfecho
+noun | employer | empleador, empresa, compañía
+noun | enthusiasm | entusiasmo
+adje | enthusiastic | entusiasta
+adje | flexible | flexible
+adje | inexperienced | sin experiencia
+adje | irresponsible | irresponsable
+adje | redundant | en paro
+noun | responsibility | responsabilidad
+adje | responsible | responsable
+noun | routine | rutina
+adje | secure | seguro
+adje | self-confident | seguro de sí mismo
+noun | support | apoyo
+adje | uncertain | incierto
+noun | unemployment benefit | prestación por desempleo
+adje | unsuccessful | fallido, fracasado
+adje | accessible | accessible
+noun | bar | bar
+noun | canal | canal (water)
+noun | clap (thunder) | trueno
+ph-v | consist of (sth) | consistir en
+noun | dam | presa
+adje | economical | económico
+noun | environment | medio ambiente
+noun | flash | destello, fogonazo
+noun | flood | inundación
+noun | fossil fuel | combustible fósil
+noun | lake | lago
+noun | lightning | rayo
+noun | litter | basura
+noun | pane | vidriera
+noun | pond | laguna
+noun | rapids (river) | rápidos (río)
+verb | recycle | reciclar
+noun | reservoir | embalse, presa, depósito
+noun | river | río
+noun | route | ruta, itinerario
+noun | rubbish | basura
+adje | second-hand | de segunda mano
+noun | slice | rebanada, trozo
+noun | storm | tormenta
+noun | stream | arroyo
+verb | tackle | enfrentarse a, enfrentar, enfrentarse, afrontar
+noun | traffic | tráfico
+noun | vegetation | vegetación
+noun | waterfall | cascada
+adje | appealing | atractivo, interesante
+noun | appetite | apetito
+adje | bitter | amargo
+adje | canned | en conserva, enlatado, en lata
+verb | consume | consumir
+noun | consumer | consumidor
+adje | dairy | lácteo
+noun | finding | descubrimiento, hallazgo
+adje | fizzy | gaseoso
+adje | flat (drink) | sin gas
+noun | flavour | sabor, gusto
+verb | grill | cocinar a la parrilla
+verb | influence | influir
+adje | juicy | jugoso
+verb | melt | fundir, derretir
+adje | mild | suave
+noun | packaging | embalaje, empaquetado
+verb | reject | rechazar
+adje | rich (food) | fuerte, pesado (comida)
+adje | ripe | maduro
+adje | rotten | podrido
+noun | sense | sentido
+noun | amount | cantidad
+noun | challenge | reto, desafío
+noun | collector (person) | coleccionista
+noun | collection | colección
+noun | condition | estado, condición
+adje | delightful | encantador
+adje | elegant | elegante
+adje | exceptional | excepcional
+noun | the former | el primero (en referencia a algo mencionado previamente)
+noun | the latter | el último (en referencia a algo mencionado previamente)
+ph-v | look after (sb/sth) | ocuparse de, cuidar
+ph-v | look at (sth) | examinar, mirar
+ph-v | look for (sb/sth) | buscar (ir tras alguna cosa o tras alguien)
+ph-v | look into (sth) | estudiar, investigar, evaluar
+expr | the look of | aspecto, apariencia, pinta
+expr | look out! | cuidado!, cuidado
+adje | massive | enorme
+noun | memory | memoria
+noun | obsession | obsesión
+noun | passion (for sth) | pasión (por algo)
+adje | remarkable | notable
+noun | scale | escala
+adje | substantial | grande, considerable, sustancial, abundante
+noun | technique | técnica
+adje | vast | vasto, amplio
+noun | alternative | alternativa
+noun | biography | biografía
+ph-v | calm (sb/sth) down | calmar, tranquilizar
+ph-v | come across (sth) | encontrarse con, toparse con
+ph-v | come out (book) | salir, publicarse
+ph-v | come up with (sth) | sugerir, inventarse
+verb | cope | salir adelante, superar
+noun | documentary | documental
+adje | doubtful | dudoso, poco convencido
+adje | effective | eficaz, efectivo
+noun | extract | extracto (de un texto)
+noun | form (type) | forma
+ph-v | go ahead | empezar
+ph-v | go by (time) | pasar
+ph-v | go off (sb/sth) (love) | perder el gusto por, desenamorarse, dejar de gustar algo
+ph-v | go through | pasar, sufrir (una dificultad)
+ph-v | go up | subir
+adje | irritated | enfadado, irritado
+verb | nod | saludar con la cabeza, asentir
+adje | relieved | aliviado
+noun | science fiction | ciencia ficción
+noun | strength | fuerza
+adje | technological | tecnológico
+noun | threat | amenaza
+noun | thriller | thriller, de suspense
+adje | visual | visual
+noun | alternative | alternativa
+noun | biography | biografía
+ph-v | come across (sth) | encontrarse con, toparse con
+ph-v | come out (book) | salir, publicarse
+ph-v | come up with (sth) | sugerir, inventarse
+verb | cope | salir adelante, superar
+noun | documentary | documental
+adje | doubtful | dudoso, poco convencido
+adje | effective | eficaz, efectivo
+noun | extract | extracto (de un texto)
+noun | form (type) | forma
+ph-v | go ahead | empezar
+ph-v | go by (time) | pasar
+ph-v | go off (sb/sth) (love) | perder el gusto por, desenamorarse, dejar de gustar algo
+ph-v | go through | pasar, sufrir (una dificultad)
+ph-v | go up | subir
+adje | irritated | enfadado
+verb | nod | saludar con la cabeza, asentir
+adje | relieved | aliviado
+noun | science fiction | ciencia ficción
+noun | strength | fuerza
+adje | technological | tecnológico
+noun | threat | amenaza
+noun | thriller | thriller, de suspense
+adje | visual | visual
+noun | ankle | tobillo
+noun | bandage | venda
+verb | break (not work) | estropear, romper
+noun | break | fractura
+ph-v | break down | averiarse
+noun | bug (illness) | virus, bacteria
+verb | burn | quemar
+noun | chest | pecho, torso
+noun | cough medicine | medicina para la tos
+noun | Elastoplast, elastoplast | esparadrapo
+noun | elbow | codo
+noun | exercise | ejercicio
+verb | exercise | hacer ejercicio
+noun | eyebrow | ceja
+verb | faint | desmayarse
+verb | graze | hacerse un rasguño, raspar, rasparse, rasguñar, rasguñarse (la piel)
+verb | hurt | doler
+noun | jaw | mandíbula
+noun | knee | rodilla
+noun | needle | aguja
+expr | on average | de media, en promedio
+expr | on balance | teniéndolo todo en cuenta, en general, en conjunto
+expr | on behalf of | en nombre de
+expr | on condition that | a condición de que, siempre que
+expr | on duty | de guardia
+expr | on offer | rebajado, en oferta
+expr | on purpose | a propósito
+noun | plaster | tirita
+noun | scar | cicatriz
+noun | spot (skin) | grano
+verb | sprain | torcerse, esguinzarse
+verb | sting | picar (un insecto)
+noun | stitch | punto de sutura
+noun | surgery | cirugía
+noun | sweat | sudor
+noun | symptom | síntoma
+noun | thigh | muslo
+noun | waist | cintura
+noun | ward | sala (en un hospital)
+noun | wrist | muñeca
+verb | accuse | acusar
+verb | arrest | arrestar
+noun | burglar | ladrón
+noun | cell (room) | celda (de prisión)
+verb | charge (accuse) | acusar
+expr | commit a crime | cometer un delito, cometer un crimen
+noun | court | tribunal
+noun | criminal | criminal, delincuente
+noun | detective | detective, inspector de policía
+noun | DNA | ADN
+noun | evidence | prueba, evidencia
+verb | fine | multar
+noun | fine | multa
+noun | fingerprint | huella digital, huella dactilar
+adje | forensic | forense
+adje | guilty | culpable
+adje | illegal | ilegal
+adje | innocent | inocente
+noun | jury | jurado
+verb | kidnap | secuestrar
+noun | offence | infracción, delito, incumplimiento, crimen
+noun | penalty | sanción, castigo
+noun | pickpocket | carterista, ladrón
+noun | proof | prueba
+noun | punishment | castigo
+noun | robbery | robo
+verb | sentence | sentenciar
+verb | shoplift | robar (de una tienda)
+verb | steal | robar
+noun | suspect | sospechoso (persona)
+adje | suspicious | sospechoso
+expr | take (sb) to court | demandar a alguien, llevar a alguien a los tribunales, llevar a alguien a juicio, demandar
+noun | thief | ladrón
+verb | trace | rastrear, seguir la pista
+noun | trial (law) | juicio
+noun | absence | ausencia
+noun | architecture | arquitectura
+noun | collection (taking away) | recogida
+noun | community | comunidad
+noun | consumer | consumidor
+noun | cut | corte (de la electricidad)
+adje | environmental | ambiental
+noun | lack | falta
+noun | level | nivel
+noun | lifestyle | modo de vida, estilo de vida
+noun | lighting | iluminación
+noun | maintenance | mantenimiento
+noun | mall | centro comercial
+noun | neighbourhood | barrio, vecindario
+noun | pollution | contaminación
+noun | property | propiedad
+noun | regulation | reglamento, regulación
+verb | renew | renovar
+noun | renewal | renovación
+noun | requirement | requerimiento
+noun | resident | residente
+noun | shortage | escasez
+noun | suburb | suburbio
+adje | suburban | suburbano
+noun | system | sistema
+noun | traffic jam | atasco de tráfico
+adje | urban | urbano
+noun | audience | público, audiencia
+noun | choir | coro
+noun | composer | compositor
+noun | composition (music) | composición, obra
+noun | conductor | director de orquesta
+noun | festival | festival
+noun | gig | actuación
+noun | impression | impresión
+adje | memorable | memorable
+noun | musician | músico
+noun | orchestra | orquesta
+adje | orchestral | orquestal
+noun | organiser, organizer | organizador
+verb | participate | participar
+noun | partnership | colaboración, asociación
+verb | perform | interpretar, actuar
+noun | performer | artista, intérprete
+noun | rehearsal | ensayo
+noun | solo (music) | solo
+verb | specialise, specialize | especializarse
+noun | venue | lugar, sitio (donde se celebra un evento)
+adje | unique | único
+noun | ash | ceniza
+ph-v | break off (sth), break (sth) off | acabar, suspender, poner fin, terminar
+ph-v | call off (sth), call (sth) off | anular, cancelar, suspender
+noun | crack | grieta
+ph-v | cut (sb/sth) off, cut off (sb/sth) | aislar, distanciarse de
+verb | damage | dañar
+adje | damp | húmedo
+noun | drought | sequía
+noun | earthquake | terremoto
+noun | eruption | erupción
+noun | gas | gas
+adje | humid | húmedo
+noun | hurricane | huracán
+verb | injure | dañar, herir, lesionar
+adje | invaluable | precioso, inestimable, de mucho valor, que no tiene precio
+ph-v | let off (sb), let (sb) off | perdonar, no castigar
+ph-v | log off | cerrar sesión, finalizar sesión
+noun | peak | cima
+noun | planet | planeta
+verb | preserve | mantener, preservar
+adje | priceless | inestimable, invaluable
+ph-v | send off (sth), send (sth) off | enviar
+adje | sensitive | sensible
+verb | shake (vibrate) | temblar, tiritar, agitar
+ph-v | tell off (sb), tell (sb) off | regañar, echar bronca
+noun | thunder | trueno
+verb | tremble | temblar
+verb | undo | deshacer, desabrochar
+verb | unfasten | desabrochar, deshacer, desatar, desmarrar
+verb | untie | desatar
+verb | unwrap | abrir, desenvolver
+noun | volcano | volcán
+noun | weather forecast | predicción meteorológica, previsión meteorológica, pronóstico del tiempo
+ph-v | wear off | disiparse, desaparecer gradualmente
+noun | apology | disculpa
+adve | apparently | aparentemente, por lo visto
+noun | cashpoint | cajero, cajero automático
+ph-v | catch up on (sth) | ponerse al día
+noun | comedian | cómico, comediante
+noun | comedy | comedia
+noun | complaint | queja, reclamación
+noun | disguise | disfraz
+verb | disguise | disfrazar
+noun | earnings | salario
+verb | estimate | estimar
+ph-v | get (sth) over with | quitarse de encima, sacarse de encima
+ph-v | hang around (with sb) | pasar tiempo (con alguien)
+noun | humour | humor
+verb | ignore | ignorar, no prestar atención
+expr | have a bad influence on | ser una mala influencia 
+ph-v | key in (sth), key (sth) in | teclear
+ph-v | keep up (sth), keep (sth) up | mantener
+noun | landlord, landlady | arrendador, arrendadora
+ph-v | look up (sth), look (sth) up (seek) | buscar (en algún sitio)
+ph-v | look up to (sb) (respect) | admirar, respetar
+ph-v | make for | ir hacia, dirigirse hacia
+ph-v | make (sb/sth) out | distinguir, comprender
+ph-v | make up for (sth) | compensar
+ph-v | pick up (sth), pick (sth) up | aprender
+ph-v | put off (sb), put (sb) off | disuadir
+ph-v | put out (sth), put (sth) out | apagar (algo que arde - un fuego o un cigarrillo)
+ph-v | put up a fight | combatir, dar pelea (expresar oposición)
+ph-v | put up with (sb/sth) | tolerar, aguantar, soportar
+noun | rule | regla, norma
+verb | star | ser la estrella, protagonizar
+ph-v | start out | empezar
+ph-v | take time off | tomarse unos días, tomarse días libres, tomarse un tiempo libre, tomarse tiempo libre
+noun | treatment | tratamiento
+adje | weird | muy extraño
+ph-v | work on (sth) | trabajar en
+ph-v | work out (sth), work (sth) out | entender, resolver, solucionar
+expr | deep in through | perdido en sus pensamientos
+adve | inwardly | por dentro, interiormente
+noun | coroner | forense,
+noun | luminary | celebridad
+ph-v | burst out | saltar, aparecer
+noun | hedge | asegurar, cubrir
+noun | moors | páramo, brezal
+noun | butler | mayordomo
+noun | inquest | investigación
+verb | sight | avistar, ver
+noun | heir | heredero
+noun | glimpse | vistazo
+noun | foolishness | estupidez
+noun | tale | historia, relato
+adje | mad, madman, madwoman | loco, histérico
+verb | flee | huir
+noun | beard | barba
+noun | chap | tipo, tío
+noun | maid | criada
+noun | stableboy | mozo de cuadra
+ph-v | throw out | rechazar
+adje | gloomy | gris, encapotado, triste, sombrío, melancólico
+verb | blow | soplar
+noun | coat | abrigo
+adje | overwhelming | arrollador, aplastante, enorme 
+adje | well-built | formido, corpulento
+noun | staircase | escalera
+adje | sombre | sombrío, serio, apagado, oscuro
+adje | lit | iluminado, alumbrado
+verb | bleak | lúgubre, desolador, desalentador
+P | toss and turn | dar vueltas en la cama
+adje | awful | terrible, horrible, espantoso
+adje | dull | aburrido, soso
+verb | chase | perseguir
+verb | beg | rogar, suplicar
+verb | digress | divagar
+noun | bog | pantano, lodazal
+verb | moan | gemmir, quejarse
+verb | howl | aullar, gritar
+noun | heaven | cielo
+verb | asleep | dormido
+adje | downstairs | em la planta baja
+P | red-handed | con las manos en la masa
+adve | severely | seriamente, gravemente, severamente
+adve | sternly | severamente, rigurosamente, duramente
+verb | starve | pasar hambre, morir de hambre
+adje | fool | tonto
+verb | peer | mirar detenidamente 
+noun | silhouette | silueta
+verb | ease | aliviar
+verb | implore | rogar, suplicar
+adje | dreadful | terrible, espantoso
+noun | burden | carga, responsabilidad
+verb | swear | jurar, prometer
+adve | bitterly | amargamente, con rencor
+adje | worthwhile | que merece la pena, que vale la pena
+noun | bluff | engaño, farol
+adje | rough | rugoso, áspero
+noun | beast | bestia
+adje | stony | pedregoso
+noun | thump | golpe, paliza, porrazo 
+noun | fist | puño
+noun | flight (escape) | huida, escapada
+adje | bent | torcido, curvado, doblado
+adje | stunned | aturdido, inconsciente
+adje | muzzled | amordazado
+adje | chained | encadenado
+noun | supper | cena
+adje | infamous | infame, tristemente famoso
+adje | faint | borroso, leve
+verb | desert | abandonar
+noun | warrant | orden judicial
+verb | stare | mirar fijamente
+adje | wicked | malvado
+noun | ambush | emboscada
+verb | crouch | agacharse
+noun | curtains | cortinas
+ph-v | get up | levantarse
+noun | fog | niebla
+verb | glitter | relucir, brillar
+verb | flee | huir
+noun | bush | arbusto, mata
+adje | elated | eufórico
+noun | schemer | manipulador, conspirador
+noun | decoy | cebo, trampa
+adje | betrayed | traicionado
+noun | offspring | hijos
+verb | hesitate | dudar
+expr | all year round | a lo largo del año
+noun | alleyway | callejón
+expr | anything goes | todo vale
+noun | aspect | aspecto
+noun | automatic pilot | piloto automático
+adve | barely | apenas
+adje | bizarre | extraño, estrambótico
+ph-v | break down | averiarse, romperse
+adje | bustling | a reventar, atascado (de gente)
+expr | catch sight of | ver, avistar, notar
+ph-v | check out | verificar, comprovar
+adje | competent | competente
+adje | courageous | valiente
+adje | crude | grosero, vulgar
+adje | decisive | decisivo
+verb | decline | rechazar
+noun | delight | placer
+noun | disbelief | desconfianza
+expr | dos and don'ts | normas, reglas
+adje | down-to-earth | sensato, centrado, realista
+ph-v | end up | acabar en, terminar en
+expr | face a challenge | afrontar un reto
+verb | gain | obtener, ganar, adquirir
+expr | gain insight | ganar conocimiento, entendimiento
+expr | get the wrong impression | tener la impresión equivocada
+expr | get to know (sb or sth) | concocer (a alguien o algo estando tiempo con él o con aquello)
+noun | getaway | escapada, vacaciones
+ph-v | go through | pasar por (una situación)
+verb | hesitate | dudar
+verb | hold | agarrar
+noun | iceberg | iceberg
+adje | incredible | increíble
+adje | irritable | irritable
+expr | keep in touch | mantenerse en contacto
+adje | knowledgeable | culto, conocedor
+expr | make up your mind | decidirse
+verb | mark (an anniversary) | cumplirse (un aniversario)
+noun | maze | laberinto
+adve | merely | simplemente
+adje | narrow-minded | cerrado, de mente estrecha
+adje | outgoing | extrovertido
+verb | perceive | percatarse de que, percatarse, comprender que, comprender
+adje | persuasive | persuasivo, convincente
+ph-v | pop over | dar una vuelta
+noun | proof | prueba
+verb | purr | ronronear
+noun | queue | cola (de personas)
+adje | rancid | rancio
+expr | read between the lines | leer entre líneas
+verb | regard | considerar
+noun | roost | nido
+adje | rotten | podrido
+adje | sarcastic | sarcástico
+verb | scrub | fregar
+adje | self-deprecating | autocrítico
+noun | sense of humour | sentido del humor
+ph-v | set up | instalar, montar
+verb | skim | sobrevolar, rozar
+expr | social glue | pegamento social
+noun | social-networking | redes sociales
+adve | solely | solamente, únicamente
+verb | strengthen | fortalecer, endurecer
+expr | tip of the iceberg | punta del iceberg
+expr | to my mind | en mi opinión
+ph-v | try out | probar, hacer una prueba
+noun | warmth | calor, amabilidad
+noun | way | forma, estilo
+expr | way of life | estilo de vida
+verb | acknowledge | confirmar un recibo
+verb | adapt | adaptarse
+noun | adulthood | edad adulta
+noun | ambition | ambición
+verb | antagonise | contrariar a
+verb | apologise | disculparse
+verb | assign | asignar
+verb | assume | asumir
+verb | attach | adjuntar, poner algo en
+ph-v | believe in | creer en
+verb | confirm | confirmar
+noun | delay | retraso
+ph-v | draw on | usar, utilizar, hacer uso de (conocimiento / información)
+verb | forward | reenviar, remitir
+ph-v | get on (with sth) | llevarse bien con
+ph-v | get out (of sth) | escaparse, librarse (de algo)
+adje | grateful | agradecido
+expr | have sth in common | tener algo en común
+adje | isolated | aislado, apartado
+ph-v | keep up | mantenerse, seguir el ritmo, mantener
+ph-v | live up to | igualar, estar a la altura
+ph-v | look forward to | estar ansioso, estar deseando algo
+ph-v | look up to | admirar, respetar
+ph-v | opt for | optar for
+adje | overpriced | carísimo
+expr | pros and cons | pros y contras
+verb | provide | proveer, aportar
+verb | recover | recuperarse
+noun | reference | referencia
+verb | sit (for an exam) | hacer (un examen)
+verb | specialise | especializarse
+adje | tactful | discreto, con tacto
+expr | take part | participar, formar parte
+ph-v | take over | hacerse cargo
+noun | thriller | película, libro de suspense
+adje | tricky | complicado, difícil, delicado
+adje | adaptable | flexible, adaptable
+verb | address | dirigirse a, abordar (algo)
+noun | advisee | persona que recibe un consejo
+noun | advisor | consejero
+ph-v | ask out | invitar a salir
+noun | associate | socio, auxiliar, asociado
+adje | awkward | difícil, incomodo, complicado, torpe
+expr | the best of both worlds | lo mejor de cada casa
+noun | bully | abusón
+noun | cast | reparto (de actores)
+noun | concept | concepto
+adje | corporate | corporativo, empresarial
+adje | destined | destinado a algo
+noun | disturbance | interrupción, perturbación, alboroto
+expr | downward spiral | situación que va empeorando
+adje | edgy | nervioso, inquieto
+verb | embrace | aceptar, acoger
+noun | epoch | época, era
+noun | expertise | experiencia, habilidad, dominio, pericia
+noun | flourishing | floreciente, próspero, exitoso
+noun | folk | gente
+noun | fuss | escándalo
+ph-v | hang out with | pasar tiempo con
+expr | hog the limelight | llevarse todo el protagonismo
+expr | in the public eye | conocido por todos
+expr | in the running | con oportunidades de ganar
+noun | in-joke | broma privada
+noun | intrusion | intrusión, violación (de intimidad)
+expr | it's high time | ya va siendo hora de que
+noun | jargon | jerga, argot
+adje | light-hearted | alegre
+adje | moving | emotivo
+verb | narrow | estrecharse
+noun | notion | idea, noción
+expr | on the spot | en el lugar mismo
+expr | over the hill | estar para el arrastre (que una persona ya no sirve)
+expr | over the top | desmesurado (demasiado extremo)
+noun | pace | ritmo
+noun | paparazzi | paparazzi
+ph-v | pick on | acosar, meterse con
+adje | pointless | inútil, sin sentido
+noun | privacy | privacidad
+expr | put the record straight | dejar las cosas claras
+noun | recommendation | sugerencia, recomendación
+adje | reserved | reservado (una persona)
+expr | roll up your sleeves | arremangarse (preparase para algo)
+noun | sacrifice | sacrificio
+noun | seminar | seminario, cursillo
+expr | skeletons in the cupboard | secretos vergonzosos
+adje | smitten | enamorado
+verb | snap | ladrar, gruñir
+noun | soap opera | culebrón
+ph-v | stem from | originarse de
+adje | struggling | en apuros, en aprietos
+expr | take yourself (too) seriously | tomarse en serio uno mismo
+verb | tease | burlarse de
+expr | tell the difference | notar la diferencia (entre dos cosas)
+expr | then and there | en ese momento y lugar
+verb | touch | tocar, acariciar
+expr | tough upbringing | infancia difícil
+verb | transform | transformar
+noun | transition | transición
+expr | turn nasty | volverse desagradable
+expr | under the weather | no sentirse bien, mal, estar malo
+adje | universal | universal
+expr | up to the mark | dentro de lo esperable
+adve | vice versa | viceversa
+noun | victim mentality | víctima mental (uno se considera la víctima de las acciones de otros)
+noun | villain | villano, el malvado
+adje | accessible | accessible
+expr | at your earliest convenience | tan ponto como te sea posible
+verb | avoid | evitar
+noun | balance | equilibrio
+adje | conclusive | decisivo
+noun | consequence | consecuencia
+adje | content | conforme, contento, satisfecho
+adje | conventional | convencional, tradicional, ordinario
+verb | co-opt | nombrar a
+noun | deceit | engaño, mentira
+verb | distinguish | distinguir
+verb | dramatise | dramatizar, escenificar
+adje | effective | eficaz, efectivo
+adje | efficient | eficiente
+noun | enquiry | pregunta
+noun | evaluation | evaluación, análisis
+verb | follow | seguir
+expr | geared towards | dirigido a (un grupo de personas / una situación...)
+expr | give sb a ring | telefonear a alguien, llamar a alguien
+noun | independence | independencia
+expr | keep an eye open | mantener un ojo abierto
+adje | literate | alfabetizado (sabe leer y escribir)
+adje | low-cost | barato
+adje | mature | maduro
+noun | objection | oposición, objeción
+noun | personnel | personal
+verb | purchase | comprar
+adje | rational | racional
+prep | regarding | en relación con, sobre
+verb | speculate | especular que, suponer que
+ph-v | take on | aceptar (un trabajo)
+noun | tariff | tarifa
+noun | top up | recargar (una tarjeta de crédito por ejemplo)
+adve | ultimately | finalmente
+adje | varied | variado, diverso
+noun | abundance | abundancia
+adje | adequate | adecuado
+adje | advisable | aconsejable, recomendable
+noun | applicant | solicitante
+noun | career ladder | escalar posiciones (de trabajos) (cada vez vas cobrando más)
+adje | challenging | desafiante
+adje | competitive | competitivo
+noun | competitive salary | salario competitivo
+noun | curriculum vitae | curriculum vitae
+noun | dedication | dedicación
+verb | determine | determinar
+adje | downhearted | desanimado
+verb | eliminate | eliminar
+verb | enrol | inscribirse, matricularse
+noun | entrepreneur | emprendedor
+noun | equivalent | equivalente
+verb | exceed | exceder
+noun | funds | fondos (dinero)
+expr | get off the ground | despegar, arrancar, empezar (un proyecto)
+expr | go for it | ve a por ello
+expr | in trouble | en problemas
+adje | inspirational | inspirador
+noun | job seeker | persona que busca trabajo
+verb | mislead | engañar
+noun | oil spill | derrame de petróleo
+noun | operating theatre | quirófano
+noun | peer | par (dos cosas iguales o muy similares)
+noun | predecessor | predecesor
+noun | rejection | rechazo
+adve | respectively | respectivamente
+ph-v | rule out | descartar
+noun | screening (review of a selection) | revisión, eliminación, filtración
+adje | sketchy | incompleto, esbozado
+adje | stressed out | estresado
+ph-v | swarm with | llenar con (lleno de personas o de cosas)
+noun | target | objetivo
+noun | tendency | tendencia
+noun | thrill | emoción, excitación
+adje | unemployed | desempleado
+adje | waterproof | impermeable
+ph-v | wear off | desaparecer, desvanecerse (gradualmente)
+noun | willingness | disposición (estar en disposición de)
+noun | work placement | trabajo en prácticas
+ph-v | break up | interrumpirse (una llamada de teléfono)
+noun | breakthrough | avance, logro, descubrimiento
+ph-v | call back | devolver la llamada
+noun | catch up | reunión (informal) (para ponerse al día de las noticias)
+verb | chain | encadenar
+ph-v | come up with | proponer, inventarse
+expr | be cut off | ser interrumpida (una llamada a causa de un problema)
+verb | disentangle | desenredar
+expr | do your best | hacer algo lo mejor que uno pueda
+adje | drawn out | prolongar
+verb | dump | terminar de golpe una relación
+adje | face-to-face | cara a cara
+adje | futuristic | futurista
+noun | gadget | aparato, artefacto, dispositivo
+ph-v | get through (phone) | localizar (para poder poder hablar con el por teléfono)
+ph-v | go off | dejar de gustar algo, alguien
+ph-v | hang on | esperar
+ph-v | hang up | colgar
+expr | have no way of knowing | no hay manera de saber
+adje | immobile | inmóvil
+adje | impolite | descortés
+expr | it goes without saying | no hace falta decir nada (és obvio)
+ph-v | leave out | dejar fuera (excluir) a algo, alguien
+adje | lengthy | largo, extenso, prolongado
+noun | mobility | movilidad
+expr | off the hook | descolgado (el teléfono)
+expr | out of the blue | inesperadamente, de la nada, sin avisar
+ph-v | pass sb over | pasar a alguien al teléfono (ejemplo: te paso con Maria)
+ph-v | plunge into | tirarse de cabeza (figurativo: estar entusiasmado por empezar algo)
+adje | primitive | primitivo
+expr | put sb on hold | dejar a alguien en espera
+ph-v | put sb through | pasar a alguien al teléfono (ejemplo: te paso con Maria)
+noun | reception | recepción
+noun | recipient | receptor
+ph-v | ring back | volver a llamar
+ph-v | ring off | colgar
+ph-v | run down | perder potencia
+ph-v | run out | agotarse
+adje | satirical | satírico
+adje | sociological | sociológico
+ph-v | speak up | hablar mas fuerte
+adve | straightaway | inmediatamente
+ph-v | take off | despegar (empezar a ser popular)
+expr | take someone seriously | tomarse en serio
+expr | take someone's word for sth | confiar en la palabra de alguien
+adje | tedious | aburrido
+expr | thing of the past | cosa del pasado
+adve | to and fro | de un lado a otro (vaivén)
+verb | unwrap | desenvolver, abrir
+noun | veteran | veterano
+noun | vowel | vocal
+expr | wouldn't have it any other way | no lo haría de ninguna otra manera
+adje | gorgeous | precioso, maravilloso
+noun | ancestry | antecedentes, ascendencia (antecedentes)
+noun | apprenticeship | aprendizaje
+noun | boot | maletero
+verb | break (a story) | dar la primicia (se hace público por primera vez)
+noun | bullet point | punto (de enumeración en una lista)
+verb | cause | provocar
+noun | checkout cashier | cajero, cajero de un supermercado (persona)
+adje | collapsible | plegable
+noun | commentator | comentarista
+noun | downside | inconveniente, desventaja, lado negativo
+noun | drawback | desventaja
+expr | drive sth home | hacer entender, tomar consciencia
+adve | eventually | finalmente
+verb | exploit | explotar, abusar (a alguien no pagándole lo que le toca)
+ph-v | fall into | empezar a hacer algo (sin intención)
+noun | flexitime | horario flexible
+noun | flyer | folleto, folleto de publicidad
+expr | gap in the market | brecha en el mercado
+ph-v | get into | meterse en, engancharse con, empezar algo
+ph-v | get sb down | desanimar a alguien
+noun | induction | iniciación (en un trabajo)
+adje | influential | influyente
+noun | kitchen hand | cocinero (de una casa / la persona que cocina)
+noun | market | mercado
+noun | MBadj | MBA
+adje | naïve | ingenuo
+adje | nine-to-five | de nueve a cinco (las horas de trabajo son de 9 a 4)
+noun | office junior | subordinado (persona que hace trabajos no calificados)
+noun | outlet | tienda de ofertas
+verb | overwhelm | agobiar, abrumar
+noun | perception | percepción
+noun | perk | beneficio (gracias a tu trabajo hecho)
+noun | plastic surgeon | cirujano plástico
+noun | potential | potencial
+adje | profitable | rentable
+adje | profound | profundo (a feeling)
+expr | prophet of doom | profeta "negativo" (que dice que pasaran cosas malas)
+noun | refuse collector | basurero
+noun | roots | raíces
+adje | run-of-the-mill | el típico, común y corriente
+noun | salon | salón de belleza, peluquería
+noun | shelf stacker | persona que reemplaza productos en una estanteria de una tienda, reponero, almacenero
+ph-v | shine through | verse, notarse
+ph-v | shoot off | salir disparado
+noun | stockbroker | corredor de bolsa (comprador y vendedor de acciones)
+verb | triple | triplicar
+expr | be up to no good | estar tramando algo malo
+noun | work experience | experiencia laboral, prácticas (de un estudiante)
+adje | absorbing | muy interesante, absorbente
+verb | approve | aprobar
+verb | assassinate | asesinar (a alguien famoso)
+noun | biro | bolígrafo (tipo BIC)
+verb | bleep | emitir pitidos, pitar
+noun | coincidence | coincidencia
+noun | collar | collar
+adje | common | común
+verb | comprise | componerse de, constar de
+adje | condemned | condenado
+noun | contour | contorno
+adje | courting | tener una relación romántica con alguien que esperas casarte
+adje | cutting-edge | innovador
+noun | dashboard | tablero de mandos, salpicadero (de un coche)
+adje | disposable | desechable, de usar y tirar
+adje | engrossing | fascinante, interesante, atractivo
+adje | flexible | flexible
+noun | gearbox | caja de cambios
+adje | hackneyed | trillado, gastado (que una idea ya se ha dicho mucho y es aburrida)
+verb | hiccup | hipar (tener hipo)
+adje | hideous | espantoso, horroroso, horrible
+adje | ill-conceived | mal planeado, mal concebido
+adje | imaginative | imaginativo
+adje | impractical | poco práctico
+adje | indispensable | indispensable
+adje | ingenious | ingenioso
+adje | innovative | innovador
+verb | insist | insistir
+adje | inspired | inspirado
+adje | inventive | inventivo
+noun | laundry | ropa sucia, colada
+verb | maintain | mantener
+ph-v | mess up | desordenar
+noun | mop | mocho, fregona
+expr | be on the point of sth | estar a punto de hacer algo, estar a punto de
+verb | overcome | abrumar a, anegar a
+noun | patent | patente
+adje | pivotable | pivotable
+adje | redundant | en paro, despedido (de un trabajo)
+noun | ring-pull | pieza metálica para abrir una lata, anilla
+expr | run a bath | preparar un baño
+noun | SatNav, satnav, Satnav | navegación por satélite
+noun | sight | vista
+noun | sliced bread | pan rebanado
+verb | stow, store | guardar, almacenar (algo hasta que sea necesario)
+adje | stunning | maravilloso, asombroso, increíble
+noun | suction pad | ventosa
+expr | take pride in sth | sentirse orgulloso de algo
+noun | treadmill | cinta de andar, cinta de correr
+adje | trivial | trivial
+adje | vain | vanidoso, superficial, egoísta
+noun | amenity | servicios, comodidades, instalaciones
+noun | atmosphere | ambiente, atmósfera (de un lugar)
+noun | availability | disponibilidad
+expr | beyond recognition | mas allá del reconocimiento (una cosa que ahora ya no se reconoce)
+noun | challenge | desafío
+noun | character | carácter
+noun | charm | encanto
+noun | citizen | ciudadano
+noun | congestion | congestión
+noun | dehumanization | deshumanización
+verb | encounter | toparse con (algo desagradable)
+noun | equality | igualdad
+adje | essential | esencial
+adje | exhilarating | estimulante, excitante
+verb | face | enfrentar, afrontar
+noun | foresight | previsión, adivinación (de lo que passara en el futuro)
+expr | green spaces | espacios verdes (areas con plantas y hierba en una ciudad)
+noun | housing | alojamiento, vivienda
+expr | hustle and bustle | ajetreo (sonido y actividad de una ciudad por ejemplo)
+expr | in the name of progress | en nombre del progreso
+adve | inevitably | inevitablemente
+noun | infrastructure | infraestructura
+expr | leave something to be desired | dejar mucho que desear
+expr | leisure facilities | instalaciones de ocio, instalaciones recreativas
+noun | make-over | cambiar de imagen, cambiar de look, remodelar (persona o sitio)
+noun | megacity | megaciudad
+adje | outstanding | excepcional, espectacular, impresionante
+noun | pitfall | obstáculo, dificultad, inconveniente
+noun | population | población
+adje | pre-automobile | pre-automóvil
+adje | prosperous | próspero
+adje | regrettable | lamentable, desafortunado
+verb | retain | conservar, retener, quedarse con
+expr | rich in history | rica en historia, rico en historia
+expr | sense of the past | sentido del pasado
+adje | stable | estable
+expr | standard of living | estándar de vida, nivel de vida
+verb | thrive | crecer, desarrollarse
+adje | unique | único
+adje | unprecedented | sin precedentes
+adje | urban | urbano
+adje | vibrant | vibrante, dinámico
+adje | vivid | vívido, fresco
+noun | welfare | bienestar, felicidad, bienestar social, prestaciones sociales
+adje | wholesome | saludable, sano
+adje | wise | sabio
+noun | acceptance | aceptación
+verb | acquire | adquirir
+verb | administer | administrar, dar, suministrar
+verb | anticipate | prever, anticipar
+verb | ascertain | verificar, confirmar
+noun | assumption | suposición
+noun | attendance | asistencia
+noun | awareness | conciencia
+expr | be your best bet | ser su mejor apuesta, ser su mejor opción
+expr | career path | trayectoria profesional
+noun | competition | competición, concurso
+noun | contribution | contribución
+adje | contributory | contributivo, contribuyente
+verb | cope | superar, salir adelante
+adje | cross-cultural | multicultural
+noun | datadverb | datos
+expr | draw a line between | trazar una línea entre (figurado; mantener dos situaciones por separado)
+ph-v | embark on | embarcarse en, aventurarse en
+verb | ensure | asegurar, garantizar
+verb | establish | establecer, determinar, demostrar
+noun | expectation | expectativa
+noun | factor | factor
+adje | feasible | factible, viable
+verb | glower | mirar amenazadoramente, matar con la mirada, ceño fruncido
+verb | ignore | ignorar
+noun | impact | impacto, efecto
+verb | investigate | investigar
+ph-v | look back on | recordar, mirar hacia atrás
+adje | macho | macho, predominantemente masculino
+noun | mixed feelings | sentimientos encontrados, sentimientos opuestos, sentimientos contradictorios
+noun | objectivity | objetividad
+noun | pattern | patrón
+noun | perspective | perspectiva
+noun | placebo | placebo
+adje | primary | primario, principal
+verb | prompt | provocar, generar
+noun | questionnaire | cuestionario
+noun | response | respuesta
+noun | score | puntuación
+verb | seek | buscar (especialmente algo no físico. por ejemplo: buscar la vacuna)
+adje | self-contained | autónomo, independiente
+adje | self-perceived | autopercibido
+noun | significance | significado, importancia
+adje | significant | significativo, importante
+verb | signify | significar, querer decir
+ph-v | squeeze into | meterse algo en un lugar pequeño, meter a presión, apretar, estrujar
+ph-v | stick to | atenerse a (obedecer una ley o norma)
+noun | strategy | estrategia
+expr | survival instinct | instinto de supervivencia
+noun | telecommuting | teletrabajo
+adje | aggrieved | agraviado, ofendido
+adje | appalled | horrorizado, en shock, paralizado
+expr | as opposed to | en lugar de
+noun | booth | cabina
+expr | bring to your attention | traer a su atención
+adje | businesslike | serio, formal
+noun | catwalk | pasarela, pasadizo (desfile de moda)
+noun | changing room | vestuario
+noun | clothing | ropa, prendas de vestir
+noun | component | componente
+verb | conclude | concluir
+expr | crystal clear | más claro que el agua
+expr | designer label | marca del diseñador, ropa de marca
+noun | detriment | daño, agravio
+ph-v | do without | arreglárselas, apañarse (sin algo)
+noun | dress code | código de vestimenta, etiqueta
+verb | drive | manejar
+noun | earpiece | auricular
+noun | fake | falso
+verb | fit | quedar bien, entrar (en algún sitio del cuerpo), servir
+adje | flamboyant | extravagante
+verb | flout | desobedecer, incumplir
+noun | garment | prenda (de vestir)
+verb | groom | arreglarse (peinarse / maquillarse / ...)
+expr | group identity | identidad de grupo
+noun | human resources | recursos humanos
+adje | identifiable | identificable
+verb | imitate | imitar
+noun | innovation | innovación
+noun | insider | persona con información privilegiada
+adje | intense | intenso
+verb | interact | interactuar, relacionarse
+ph-v | keep up with | estar actualizado, estar al tanto de, seguir el ritmo
+noun | look | estilo, look
+adje | made-to-measure | a medida
+noun | the mainstream | la corriente principal, cultura dominante
+adje | mistaken for | confundido, confundido con, confundido por
+noun | outsider | forastero, extraño
+adje | outward, outwards | por fuera, exterior, externo, saliente (como es uno / como es una cosa por fuera)
+noun | peacock | pavo real
+noun | phenomenon | fenómeno
+verb | press | presionar
+adje | prospective | futuro, posible, esperado
+verb | shape | dar forma, modelar
+adje | shiny | brillante
+ph-v | single out | dar un trato especial (a alguien)
+noun | slang | jerga
+adje | sloppy | descuidado, chapucero
+noun | smart card | tarjeta electrónica
+ph-v | strip off | quitarse, desvestirse
+adje | stylish | elegante
+verb | suit | quedar bien (la ropa; sobretodo los colores y el estilo acordes con la persona)
+noun | tailoring | sastrería
+adje | three-dimensional | tridimensional
+expr | toe the line | obedecer las reglas, cumplir las reglas
+adje | top-of-the-range | lo mas caro, de lujo
+noun | trend | tendencia
+ph-v | turn up (somewhere) | aparecer (en alguna parte no esperada o planeada)
+adje | underlying | subyacente (por debajo de algo superior)
+noun | viewpoint | punto de vista
+noun | wealth | riqueza
+verb | accommodate | dar hospedaje a, hospedar a
+verb | aspire | aspirar, esforzarse por alcanzar
+adje | balanced | equilibrado
+noun | caffeine | cafeína
+noun | calorie | caloría
+expr | change your mind | cambiar de opinión, cambiar de idea
+expr | be conscious of | ser consciente de
+adve | conversely | por el contrario
+adje | crunchy | crujiente
+noun | CV | CV (currículum)
+noun | deadline | fecha límite
+noun | detour | desvío
+verb | elicit | obtener, sacar, provocar
+adje | favourable | favorable, agraciado
+noun | globalisation | globalización
+noun | gut feeling | instinto, presentimiento, corazonada
+noun | hospitality | hostelera, hotelera, hospitalidad
+verb | host | alojar, acoger
+noun | insight | conocimiento, percepción
+noun | instinct | instinto
+noun | intuition | intuición
+noun | letter of application, letter of recommendation | carta de solicitud
+adve | literally | literalmente
+verb | manipulate | manipular
+noun | negativity | negatividad
+adje | numerous | numeroso
+noun | outcome | resultado, consecuencia
+verb | outline | resumir
+verb | overestimate | sobreestimar
+expr | play tricks on | jugar con, engañar a
+noun | price tag | etiqueta de precio
+noun | publishing | industria editorial, editorial
+verb | raise | aumentar, incrementar
+noun | refund | reembolso
+noun | resort | centro turístico
+noun | résumé | CV (in american english)
+adje | searching | minucioso, examinador
+verb | switch | cambiar
+noun | topping | cobertura (de chocolate en un pastel por ejemplo)
+noun | upturn | mejora
+ph-v | weigh up | sopesar algo, comparar algo con, ponderar
+noun | wording | redacción, expresión
+adje | arid | árido
+verb | associate | asociar
+adje | astounded | asombrado
+noun | blindness | ceguera
+adje | brilliant | brillante, genial, excelente
+verb | captivate | cautivar
+adje | classy | con clase, elegante
+noun | clipping | recorte (de un diario por ejemplo)
+noun | colour blindness | daltonismo
+verb | complement | complementar
+noun | compliment | cumplido
+verb | counsel | aconsejar
+verb | crash | colgarse, fallar (en un ordenador)
+noun | deficiency | deficiencia
+expr | delicate shade | color claro, tono claro, tono suave
+verb | display | mostrar, exhibir
+adje | dominant | dominante
+adje | dull | no brillante y oscuro, apagado, mate, sin brillo (un color)
+verb | duplicate | duplicar
+verb | enhance | mejorar
+verb | entice | persuadir
+verb | execute | ejecutar
+noun | fulfilment | cumplimiento
+expr | full bloom | plena floración
+noun | fumes | gases
+adje | fundamental | fundamental
+adje | genetic | genético
+expr | get sth off your chest | desahogarse, sacarse algo de encima
+ph-v | go out with | salir con (alguna persona)
+adje | greenish | verdoso
+noun | household | grupo de personas con quien vives, hogar, vivienda
+expr | in anticipation of | a la expectativa de, anticipando
+noun | ingredient | ingrediente
+noun | inmate | preso, enfermo (cerrados en la prisión o hospital para enfermos mentales)
+adve | instinctively | instintivamente
+noun | intimacy | intimidad
+verb | invite | invitar
+noun | life cycle | ciclo vital
+adje | luxurious | lujoso
+noun | milestone | hito
+verb | overcook | cocinar de más (más tiempo)
+noun | palette | paleta (de un pintor)
+verb | perceive | percibir
+adje | physiological | fisiológico
+noun | pigment | pigmento
+expr | play it safe | ir sobre seguro, caminar sobre seguro
+noun | plug | enchufe
+ph-v | plunge sb into sth | hacer que alguien experimente de repente una mala situación o infelicidad
+adve | prior to | antes de
+noun | recipe | receta
+verb | remind | recordar
+adje | sacred | sagrado
+noun | seconds | segundos (segundos platos en una comida)
+noun | shorthand | taquigrafía
+noun | stall holder | puestero (persona que tiene una parada en un mercado)
+ph-v | stand out | destacar
+adje | straightforward | sencillo, directo
+noun | subtlety | sutileza
+noun | surroundings | alrededores, entorno
+adje | synonymous | sinónimo
+ph-v | tell apart | distinguir
+adve | thoroughly | completamente
+noun | torch | linterna
+noun | traffic light | semáforo
+adje | tranquil | tranquilo
+noun | transience | transitoriedad, corta duración, brevedad
+adje | tremendous | tremendo
+verb | trick | engañar
+verb | trigger | desencadenar
+noun | turning point | punto de inflexión
+expr | under conditions | bajo condiciones
+adje | veggie | vegetariana (informal)
+noun | vibrancy | vitalidad
+verb | wilt | marchitarse, decaer
+noun | wisdom | sabiduría
+adje | abstract | abstracto
+noun | cavity | cavidad
+verb | chew | masticar
+noun | chimp | chimpancé
+verb | choke | ahogarse
+verb | compensate | compensar
+expr | be disposed towards sth | estar dispuesto a, estar deseando, estar dispuesto
+verb | emerge | surgir, emerger
+noun | endeavour | esfuerzo, empeño
+adje | evolutionary | evolutivo
+expr | fall into place | suceder, pasar (pasar fácil con éxito)
+verb | fill | proveer (trabajo a una persona)
+verb | formulate | formular
+noun | gestation period | periodo de gestación, periodo de embarazo
+adve | in conclusion | en conclusión
+verb | inherit | heredar
+noun | lifespan | esperanza de vida
+noun | make-up, makeup | constitución
+noun | means | medio (ej: Conseguir una licenciatura es un medio para alcanzar un fin.)
+verb | overlook | pasar por alto
+noun | prospects | perspectivas, expectativas, posibilidades (de tener éxito especialmente en el trabajo)
+verb | recruit | reclutar
+verb | reveal | revelar
+adje | right-handed | diestro
+noun | sign language | lenguaje de señas
+verb | slant | inclinar
+adje | spatial | espacial
+verb | swallow | tragar, engullir
+noun | syntax | sintaxis
+noun | tutorial (tuition) | clase (con un professor y un grupo pequeño de estudiantes)
+adje | upright | vertical
+noun | adolescent | adolescente
+adje | anonymous | anónimo
+noun | anxiety | ansiedad
+adje | authoritarian | autoritario
+adje | battered | abollado, dañado (por haberse utilizado mucho)
+verb | behave | comportarse
+adje | blurred | borroso, confuso, poco claro
+adje | broad-shouldered | ancho de hombros
+noun | bullying | bullying
+noun | chore | tarea rutinaria (pesada de hacer)
+adje | close | íntima, cercana (una relación)
+ph-v | come by | dar con, encontrar
+adje | controversial | controvertido
+noun | craze | moda
+verb | dare | atreverse
+verb | decline | disminuir, decaer
+noun | distraction | distracción
+adje | durable | duradero, resistente
+verb | flock | ir en manada (a algún sitio)
+noun | handful | niño problemático
+expr | have no say (in sth) | no estar involucrado en la toma de decisiones sobre alguna cosa, no influenciar
+ph-v | hold out against | resistir ante, oponerse
+adje | jokey | en broma
+ph-v | lay down (rules) | poner, establecer, imponer (la normas)
+adje | moral | moral
+adje | nostalgic | nostálgico
+noun | ownership | propiedad, posesión
+noun | poll | encuesta
+noun | pride | orgullo
+verb | promote | promover
+expr | put your feet up | relajarse, tirarse a la bartola, sacarse los zapatos (en sentido figurado)
+noun | rarity | rareza
+verb | resent | estar resentido de
+adje | rewarding | gratificante, provechoso, satisfactorio
+verb | rip | rasgarse, romperse
+noun | rivet | remache, roblón
+ph-v | set apart | reservar, separar, guardar
+adje | so-called | así llamado, llamado, denominado
+ph-v | stand up to | resistir de pie, resistir, aguantar
+adje | strict | estricto
+adje | top-of-the-line | de primera línea, de primera calidad
+adje | unbearable | inaguantable, insoportable
+verb | undergo | someterse, experimentar, padecer, sufrir
+noun | undertone | trasfondo, mensaje de fondo (figurativo)
+expr | vested interest | interés personal
+adje | accomplished | consumado, dotado
+verb | achieve | lograr
+expr | be all ears | ser todo oídos
+noun | angina | angina de pecho
+noun | appreciation | apreciación, agradecimiento
+adve | barely | apenas
+expr | bite your tongue | morderse la lengua
+noun | blood vessel | vaso sanguíneo
+noun | bloodstream | flujo sanguíneo
+verb | boost | aumentar
+noun | brain | cerebro
+expr | break your heart | romper el corazón
+ph-v | bump into | encontrarse con, toparse con
+noun | cancer | cáncer
+verb | caper | saltar, brincar, bailotear
+expr | catch someone's eye | llamar la atención de alguien, llamar la atención
+noun | cell | célula
+adje | cellular | celular
+verb | convert | cambiar (de forma)
+noun | cortex | corteza
+noun | dab hand | experto, hábil
+verb | distribute | distribuir
+adje | diverse | diverso
+noun | documentary | documental
+expr | be down in the mouth | estar triste
+noun | draper | vendedor de telas, mercero
+noun | energy | energía
+verb | estimate | estimar
+noun | exception | excepción
+noun | explosive | explosivo
+verb | extract | extraer
+adje | extraneous | superfluo, no pertinente
+expr | fall head over heels in love with sb | estar perdidamente enamorado de
+ph-v | flash up | aparecer (en una pantalla por un tiempo muy pequeño)
+adje | gassy | gaseoso
+expr | get on your nerves | poner de los nervios a, sacar de quicio a
+expr | give sb a hand | echar una mano a alguien
+expr | have a finger in every pie | estar metido en todo
+expr | have your head in the clouds | estar en las nubes
+adje | impending | inminente
+noun | implication | implicación
+noun | insomniadverb | insomnio
+expr | keep an eye on | echar un ojo, vigilar
+expr | keep sb on their toes | mantener alerta a alguien, mantener concentrado a alguien
+expr | keep your fingers crossed | cruzar los dedos
+noun | lining | recubrimiento, forro
+noun | liver | hígado
+verb | magnify | aumentar
+noun | microscope | microscopio
+noun | molecule | molécula
+noun | muscle | músculo
+adje | negative | negativo, pesimista
+adje | notable | notable, destacado, señalado
+noun | nutrient | nutriente
+expr | on no account | de ninguna manera
+adje | optimistic | optimista
+adje | overall | en general
+noun | pathogen | agente patógeno, germen
+noun | pessimism | pesimismo
+noun | policymaker | legislador
+adje | positive | positivo
+noun | positivity | positividad
+adje | predetermined | predeterminado
+verb | purr | murmurar, susurrar
+expr | put sb's mind at rest | tranquilizar a, tranquilizar, tranquilizar a alguien
+verb | regulate | regular
+noun | resolution | resolución
+adje | sceptical | escéptico
+expr | set your heart on sth, doing sth | poner tu corazón en hacer, algo
+verb | soothe | calmar, tranquilizar
+verb | spot | localizar, detectar
+adje | striking | notable, llamativo, sorprendente
+noun | substance | sustancia
+noun | supremacy | supremacía
+verb | suspect | sospechar
+noun | toxin | toxina
+adje | ubiquitous | ubicuo, extendido
+adve | unhesitatingly | sin vacilar, sin dudar
+noun | well-being | bienestar
+noun | wonder | preguntarse
+adje | blown away | volar la cabeza, deslumbrar
+noun | buff (fan) | aficionado, entusiasta
+adje | convincing | convincente
+adje | crystal clear | más claro que el agua
+adje | distinctive | distintivo
+noun | dreadlocks | rastas
+adje | ecofriendly, environmentally friendly | respetuoso con el medio ambiente
+verb | emerge | surgir, emerger
+adje | evocative | evocador
+verb | evolve | evolucionar
+verb | facilitate | facilitar
+verb | follow | seguirse, deducirse (it follows that... / se sigue que...)
+noun | glimmer | destello
+adje | haunted | turbado, afligido
+noun | heroism | heroísmo
+adje | hip | a la moda, a la última
+expr | in other words | en otras palabras
+verb | integrate | integrar, incorporar
+expr | be in the know | estar al tanto, ser conocedor de
+expr | be in two minds | estar entre dos aguas, tener dudas, estar indeciso
+noun | leap | salto
+adje | low-brow | inculto, populachero
+adje | mind-blowing | alucinante, extraordinario
+noun | obstacle | obstáculo
+expr | off the cuff | improvisadamente, improvisado
+expr | on the whole | en conjunto, teniendo todo en cuenta
+adje | outdated | anticuado
+noun | plot | trama, argumento
+expr | quasi- | casi-
+adje | rave | elogio, crítica positiva
+expr | ring true | parecer sincero, sonar sincero
+noun | sacrifice | sacrificio
+adve | seamlessly | sin interrupciones, continuo, sin problemas
+expr | stand the test of time | resistir el paso del tiempo
+ph-v | stand up | ponerse de pie, ponerse en pie, levantarse
+expr | stroke of luck | golpe de suerte
+adje | subtitled | subtitulado
+expr | switch sides | cambio de lados, cambio de bandos
+adje | thought-provoking | dar que pensar (que hace pensar mucho)
+adje | touchy-feely | sobón, franalero, sentimental, íntimo
+adve | undeniably | sin lugar a dudas, innegablemente
+expr | be up there with | estar ahí arriba con
+prep | among | entre
+noun | wishful thinking | ilusión, deseo
+noun | angle | punto de vista, perspectiva
+noun | application | utilidad, aplicación
+verb | blink | parpadear
+ph-v | catch out | atrapar, pillar, pillar con las manos en la masa
+noun | circumstance | circunstancia
+verb | claim | afirmar
+noun | clue | pista (=hint)
+adje | common | común
+noun | con-man | estafador, timador
+adje | consistent | consistente, coherente
+adve | currently | actualmente
+noun | decade | década
+verb | depict | representar
+verb | detect | detectar, notar
+verb | drive | manejar, impulsar
+noun | fib | mentirijillas
+noun | fiction | ficción
+verb | fidget | estar inquieto, moverse nerviosamente
+noun | flaw | fallo, error (de un plan previsito)
+adje | focused | concentrado
+noun | frequency | frecuencia
+noun | gesture | gesto
+adje | hilarious | divertidísimo
+verb | identify | identificar
+verb | indicate | indicar
+noun | innocence | inocencia
+verb | interpret | interpretar (el significado de algo)
+expr | kick a habit | dejar de hacer un hábito (por ejemplo: dejar de fumar)
+expr | leave sth to chance | dejar algo al azar, dejar algo a la suerte
+adje | major | mayor
+expr | make eye contact | hacer contacto visual
+adje | memorable | memorable
+verb | miss | extrañar, echar de menos
+noun | mood | estado de ánimo
+noun | parachute | paracaídas
+adje | period | período
+adve | permanently | permanentemente
+verb | pick | escoger
+verb | pose | plantear (una pregunta)
+adje | promising | prometedor
+verb | represent | representar
+adve | roughly | aproximadamente
+adje | sentimental | sentimental
+noun | setting | escenario, ambiente
+ph-v | shy away from | huir de, mantenerse alejado de
+expr | social interaction | interacción social
+adje | supportive | de apoyo, alentador
+noun | tactic | táctica
+expr | tell lies | decir mentiras
+adje | telling | revelador
+ph-v | think up | idear
+adje | tragic | trágico
+noun | turn of phrase | forma de hablar
+adje | unskilled | no capacitado
+adje | warring | en guerra, enfrentados
+noun | admission | admisión
+verb | brief | instruir, dar instrucciones, informar
+noun | cliché | cliché, tópico (overused expression)
+noun | expenses | gastos
+expr | for sb's sake | por el bien de alguien
+noun | gimmicky | efectista
+adje | gorgeous | maravilloso
+verb | implement | implementar
+noun | measure | medida (ejemplo: Estas medidas son necesarias para garantizar la seguridad de ellos.)
+expr | on track | encaminado
+verb | overcome | superar, vencer
+noun | overtime | horas extras, horas extraordinarias
+noun | PA (personal assistant) | asistente personal
+noun | personal statement | escrito de presentación (para ser candidato a algún curso de estudios)
+ph-v | pick up | recoger, pasar a buscar (a una persona)
+adje | polished | pulido
+ph-v | put forward | presentar, ofrecer, postular
+noun | quarrel | pelea
+noun | quotation | cotización
+verb | reconsider | reconsiderar
+adje | reluctant | reacio
+noun | resilience | resistencia, adaptación, resiliencia
+verb | resist | resistir
+adje | running | seguido, consecutivo
+noun | scope | alcance, rango
+adje | sensible | sensato
+adje | stressful | estresante
+verb | survey | encuesta
+adje | temporary | temporal
+noun | temptation | tentación
+adje | tight | ajustado, ceñido (el tiempo o el dinero)
+noun | tip | consejo
+verb | urge | urgir a alguien, instar a alguien
+adje | abundant | abundante
+adje | adamant | firme, inflexible
+noun | affluence | riqueza, abundancia
+noun | agriculture | agricultura
+noun | ailment | enfermedad
+noun | allergy | alergia
+noun | backing | apoyo, respaldo
+noun | breadth | amplitud, abanico (de diferentes cosas)
+noun | breeding | cría
+adje | cardiovascular | cardiovascular
+noun | civil unrest | disturbios civiles, agitación social
+verb | clarify | aclarar
+noun | commodity | mercancía, producto
+verb | consume | consumir
+noun | consumption | consumo
+noun | content | contenido
+noun | crop | cosecha
+noun | cultivation | cultivo
+verb | devise | idear
+noun | disease | enfermedad
+noun | distribution | distribución
+noun | domestication | domesticación
+verb | dread | pavor, temor
+adje | ethical | ético
+verb | exacerbate | exacerbar, agravar
+adje | far-reaching | de amplio alcance
+adje | fatty | graso
+verb | feed | alimentar
+noun | function | función
+noun | government | gobierno
+noun | guts | agallas, corage
+expr | have your work cut out (for you) | tener trabajo por delante
+expr | high blood pressure | hipertensión, presión alta
+verb | highlight | resaltar, recalcar
+noun | home truth | verdad cruel, dura verdad, verdad que duele
+noun | household name | personaje famoso
+noun | hunter-gatherer | cazador-recolector
+adje | inconclusive | no concluyente
+adve | inquiringly | inquisitivamente, indagatoriamente
+noun | integrity | honradez, honestidad
+adje | leisurely | sin prisa
+noun | mercy | misericordia
+noun | migration | migración
+noun | necessity | necesidad
+adje | nutritious | nutritivo
+noun | obesity | obesidad
+noun | overeating | comer en exceso
+noun | population | población
+noun | preservative | conservante
+noun | principle | principio
+noun | provision | provisión
+noun | residue | residuo
+noun | revolution | revolución
+verb | satisfy | satisfacer
+noun | source | fuente
+noun | stability | estabilidad
+adje | stable | estable
+noun | supply chain | cadena de suministro
+adje | susceptible | susceptible
+adje | sustainable | sostenible
+verb | tackle | abordar, afrontar (algo o alguien)
+adje | tasteless | insípido
+noun | toxicant | veneno
+noun | transmission | transmisión
+adje | unhygienic | antihigiénico
+adje | unstable | inestable
+verb | unveil | desvelar, descubrir, revelar
+ph-v | wear sb out | agotar, cansar, fatigar (a alguien)
+adve | wearily | con cansancio, con poca energía
+noun | accelerator | acelerador
+verb | adorn | adornar
+adje | airborne | aerotransportado, transportado por el aire
+expr | as the crow flies | en línea recta
+adje | assertive | seguro, firme
+adje | auspicious | propicio, favorable
+noun | barley | cebada
+noun | black spot | tramo de concentración de accidentes
+verb | boast | presumir
+noun | boundary | frontera
+noun | brushwood | maleza (ramas pequeñas)
+adje | chilly, cold | frío
+noun | cluster | racimo, grupo
+noun | comrade | camarada, colega
+noun | coracle | barquilla de cuero
+adje | cosy | acogedor, cómodo
+expr | creature comfort | comodidades
+adje | crisp | nítido (una imagen)
+verb | delegate | delegar
+noun | disintegration | desintegración
+noun | dung | estiércol (excremento animal)
+noun | exuberance | exuberancia, euforia
+noun | finishing touches | últimos retoques
+verb | flap | batir, aletear
+noun | foothills | falda, ladera, estribación (de una montaña)
+verb | grin | sonreír
+adje | harsh | duro, severo
+verb | harvest | cosechar
+expr | hit the road | ponerse en marcha (empezar la jornada)
+expr | home from home | sitio donde uno se encuentra igual de cómodo que en casa.
+noun | inconvenience | inconveniencia, inconveniente
+verb | jostle | empujar (para poder ir a algún sitio)
+adve | lavishly | generosamente, espléndidamente, profusamente
+noun | ledge | repisa, saliente (en una ventana o en una montaña)
+verb | line | línea
+ph-v | liven up | avivar, darle vida a
+adje | loyal | leal, fiel
+expr | no room to swing a cat | espacio muy pequeño
+expr | off the beaten track | apartado
+adje | once-in-a-lifetime | una vez en la vida
+noun | pannier | alforja, bolsa
+noun | paraphrase | paráfrasis
+noun | persuasion | persuasión
+verb | pile | pila
+noun | pontoon | puente flotante
+noun | poplar | álamo, chopo
+noun | pursuit | actividad, ocupación, hobby
+expr | put sth on the map | hacer famoso algo o algún sitio
+ph-v | put up with | soportar, aguantar, tolerar
+noun | rattle | repiquetear
+adje | replaceable | reemplazable
+verb | seal | sellar
+noun | shrub | arbusto, matorral
+noun | sketch | bosquejo, boceto, esbozo
+verb | slap | golpear, chocar, abofetear, cachetear
+noun | smog | niebla tóxica
+noun | splendour | esplendor
+verb | stack | apilar, amontonar
+expr | a stone's throw | a tiro de piedra (figurado: a corta distancia)
+noun | straw | paja
+verb | stuff yourself | llenarse, atiborrarse (comer demasiado)
+noun | suspension | suspensión
+adje | sympathetic | simpático
+noun | the establishment | la clase dirigente (la gente que controla un país)
+noun | tourist trap | trampa para turistas
+verb | vibrate | vibrar
+adje | watertight | hermético, sellado (el agua no puede entrar)
+verb | whitewash | encalar, blanquear
+expr | work-life balance | equilibrio trabajo-vida (comparación de horas de trabajo vs horas con la familia)
+noun | yak | yak
+adje | average | promedio
+verb | breach | traspasar, romper, atravesar
+expr | bury your head in the sand | ignorar, negar
+noun | carbon footprint | huella ecológica, impacto ambiental
+noun | commitment | compromiso, promesa
+adje | contrary | contrario
+adje | costly | costoso, caro
+adje | cumulative | acumulativo
+noun | damage | daño
+noun | decline | disminución, debilidad
+noun | decrease | reducción, disminución
+adje | defective | defectuoso
+noun | dengue fever, dengue | dengue
+adve | densely | densamente
+adje | dire | terrible, nefasto
+noun | drop | caída, descenso
+noun | drought | sequía
+noun | emission | emisión
+expr | flood alert | alerta de inundación
+noun | flooding | inundación
+noun | fluctuation | fluctuación
+noun | fossil fuel | combustible fósil
+noun | global warming | calentamiento global
+expr | go to great lengths | hacen todo lo posible, esforzarse mucho
+noun | greenhouse gas | gases de efecto invernadero, gases causantes del efecto invernadero
+noun | heat wave | ola de calor
+noun | high tide | marea alta
+noun | humidity | humedad
+noun | hurricane | huracán
+noun | ice cap | capa de hielo
+verb | increase | aumentar, subir
+noun | infrastructure | infraestructura
+expr | long-range forecast | previsión a largo plazo
+noun | malaria | malaria
+expr | play with fire | jugar con fuego
+adje | prolonged | prolongado, extendido
+adje | prone to | propenso a, tendiente a
+noun | reduction | reducción
+verb | rise | subir
+adje | sluggish | muy lento
+adje | stark | escueto, desnudo (un paisaje por ejemplo)
+adje | substantial | abundante, considerable
+noun | switch | cambio
+adje | torrential | torrencial
+noun | wake-up call | llamada de atención, toque de atención
+verb | accentuate | acentuar, resaltar
+verb | arm | armar, equipar
+noun | asset | recurso, herramienta
+noun | campaign | campaña
+noun | compensation | compensación, remuneración
+adje | concise | conciso
+expr | constructive criticism | crítica constructiva
+noun | counter-argument | contraargumento
+ph-v | crop up | salir de la nada
+expr | drop hints | consejos de caída
+noun | failing | defecto, falta
+expr | hot air | fanfarronería, cháchara
+ph-v | jot down | anotar, apuntar
+noun | pastime | pasatiempo, hobby
+expr | raise objections to | poner objeción a
+verb | run | correrse
+ph-v | settle in | sentirse cómodo
+ph-v | sift out | filtrar, seleccionar
+verb | spout | soltar un rollo
+expr | suffer in silence | sufrir en silencio
+noun | superior | superior (una persona el un trabajo)
+verb | voice | expresar
+noun | aftertaste | regusto
+noun | agony | agonía
+adje | awash | lleno, abarrotado
+verb | binge | comer en exceso
+verb | blame | culpar
+noun | cascade | cascada (muchas de algo; también es la caída del agua...)
+noun | chocoholic | adicto al chocolate
+verb | conduct | dirigir, llevar a cabo
+expr | be confined to | estar limitado a, estar cerrado a
+noun | current affairs | temas de actualidad
+verb | deactivate | desactivar
+noun | event | evento
+ph-v | expose sb to sth | exponer a alguien a hacer algo
+verb | flag | flaquear, decaer
+adje | fleeting | fugaz, breve
+noun | fluid | líquido, fluido
+noun | gel | gel
+noun | gene | gen
+noun | gherkin | pepinillo
+adje | glittering | reluciente
+expr | have a sweet tooth | ser goloso, aficionado al dulce
+noun | haze | niebla de humo, niebla (no necesariamente la natural. Puede ser de un cigarro también)
+noun | host | anfitrión, receptor
+adje | illegal | ilegal
+noun | immune system | sistema inmunitario
+verb | initiate | iniciar
+verb | loom | avecinarse, cernirse, acercarse (intimidantemente)
+verb | modify | modificar
+verb | pinch | pellizcar
+adje | plucky | valeroso, valiente
+noun | protein | proteína
+verb | resist | resistirse a
+verb | risk | riesgo
+noun | sachet | bolsita
+verb | screech | chillido
+adje | slippery | resbaladizo
+adje | sore | doloroso
+verb | submit | presentar, entregar
+verb | tingle | hormigueo (en una parte del cuerpo)
+noun | torch | antorcha
+ph-v | touch on | mencionar, aludir brevemente
+noun | trait | rasgo, característica
+noun | tribute band | banda tributo (grupo de música que toca canciones de un grupo famoso de música)
+verb | unravel | desenmarañarse, desenredarse
+adje | unscrupulous | inescrupuloso, inmoral
+expr | vicious circle | círculo vicioso
+noun | victim | víctima
+adje | voluntary | voluntario
+noun | the wall | el muro (punto donde ya no puedes continuar)
+noun | advocate | defensor (de una idea)
+adve | afresh | de nuevo
+noun | alliance | alianza, coalición
+noun | bigger picture | visión más amplia (de una situación)
+expr | be carried away | dejarse llevar, entusiasmarse
+adje | complacent | satisfecho con uno mismo
+verb | conform | adecuarse, ajustarse, avenirse, ajustarse a la norma (de igual forma a los demás)
+verb | constitute | constituir
+noun | constraint | restricción, limitación
+verb | cue | dar señal, dar el pie a, inducir
+verb | denounce | denunciar, criticar
+verb | deny | negar
+verb | destabilise | desestabilizar
+adje | dispensable | dispensable, superfluo, prescindible
+expr | draw a conclusion | sacar una conclusión
+verb | envisage | prever, imaginar
+verb | err | errar, equivocarse
+adje | erroneous | erróneo
+verb | evaluate | evaluar
+verb | exercise | ejercer
+adje | fearless | valiente, sin miedo
+noun | fraction | fracción
+expr | further afield | muy lejos
+ph-v | grapple with | luchar contra, tratar de resolver
+noun | handler | entrenador, adiestrador, domador
+noun | ingenuity | ingenio
+noun | innovator | innovador
+adje | invaluable | inestimable, invaluable
+verb | manipulate | manipular
+noun | maverick | disidente, inconformista
+noun | mussel | mejillón
+verb | nurture | apoyar, promover
+noun | octopus | pulpo
+verb | orientate | guiar, dirigir
+adje | overriding | primordial, principal, predominante
+noun | paella | paella
+expr | paper over the cracks | poner parches, disimular
+verb | ponder | reflexionar
+adje | ponderous | pesado, agotador
+verb | pool | aportar, compartir
+noun | procedure | procedimiento
+adje | psychic | psíquico
+expr | rock the boat | causar problemas, agitar las aguas
+verb | smooth | suavizar, calmar, alisar
+noun | subtraction | sustracción
+verb | sway | influenciar, persuadir
+adve | systematically | sistemáticamente
+verb | tap | golpetear
+noun | teamwork | trabajo en equipo
+expr | to the full | al máximo (de bien posible)
+adve | unintentionally | involuntariamente, accidentalmente, sin querer
+expr | haves and haves-nots | ricos y pobres
+verb | swing | balancearse, mover
+expr | barefoot | descalzo, con los pies desnudos, descalza
+noun | corn | maíz
+adve | afterward, aftermards | después, luego, más tarde
+noun | cottage | cabaña, casita de campo
+noun | furniture | muebles
