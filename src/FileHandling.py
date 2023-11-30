@@ -34,22 +34,22 @@ def getFileWords(lang: str):
 # returns the file name of the file with the incorrect words
 
 
-def getFileIncor(lang: str):
-    return "data/{l}/incorrect.txt".format(l=lang)
+def getFileIncor(lang: str, user: str):
+    return "data/{l}/{u}/".format(l=lang, u=user) + incorrect_file
 
 # returns the file name of the file with the occurrences of the words
 
 
-def getFileOccur(lang: str):
-    return "data/{l}/occurrences.txt".format(l=lang)
+def getFileOccur(lang: str, user: str):
+    return "data/{l}/{u}/".format(l=lang, u=user) + occurrences_file
 
 # reads the data from the files "file_words" and "file_occur"
 
 
-def read_data(lang: str, Words: list[word], Inc: list[int]):
+def read_data(lang: str, user: str, Words: list[word], Inc: list[int]):
     with open(getFileWords(lang), "r") as file1:
         L1 = file1.readlines()
-    with open(getFileOccur(lang), "r+") as file2:
+    with open(getFileOccur(lang, user), "r+") as file2:
         L2 = readlines_as_numbers(file2)
         # check the data of "file_occur"
         if len(L1) > len(L2):
@@ -76,13 +76,13 @@ def read_data(lang: str, Words: list[word], Inc: list[int]):
         X.setFreq(freq)
         if X.setEngWord() == 1 or X.setSpaWord() == 1:
             print("Problem reading the word {s}.".format(s=X.foreign_word))
-            game_exit(0, lang, Words, Inc)
+            game_exit(0, lang, user, Words, Inc)
         Words.append(X)
 
 
 # upgrade the content in "file_occur"
-def upgrade_content(lang: str, Words: list[word]):
-    with open(getFileOccur(lang), "w") as file:
+def upgrade_content(lang: str, user: str, Words: list[word]):
+    with open(getFileOccur(lang, user), "w") as file:
         for i in Words:
             file.write(str(i.occur) + "\n")
 
@@ -90,9 +90,9 @@ def upgrade_content(lang: str, Words: list[word]):
 # game function for finishing the game
 
 
-def game_exit(count: int, lang: str, Words: list[word], Inc: list[int]):
+def game_exit(count: int, lang: str, user: str, Words: list[word], Inc: list[int]):
     if len(Inc) > 0:
-        with open(getFileIncor(lang), "w") as file:
+        with open(getFileIncor(lang, user), "w") as file:
             for i in Inc:
                 file.write(str(i) + "\n")
     if count != 0:

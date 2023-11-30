@@ -1,2 +1,5 @@
 .vscode
 **/__pycache__/**
+**/data/**
+!**/data/**/vocab.txt
+!**/data/**/default/**

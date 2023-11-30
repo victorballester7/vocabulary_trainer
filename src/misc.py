@@ -35,21 +35,9 @@ def compare_strings(str1: str, str2: str):
     return str1 == str2
 
 
-def language(lang: str):
-    if lang == "en":
-        return "English"
-    else:  # lang == "fr":
-        return "French"
-
-
 def text_format(t: str, lang: str):
     if t == "fs":  # foreign to spanish
-        if lang == "en":
-            return "English"
-        elif lang == "fr":
-            return "French"
-        else:
-            return "NOT DEFINED"
+        return lang_dict[lang]
     else:  # t == "sf":  # spanish to foreign
         return "Spanish"
 
