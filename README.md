@@ -27,13 +27,15 @@ chmod +x run.sh
 
 ## Personalization
 
-You can add more words to the vocabulary by editing the file `vocab.txt` file inside the corresponding language folder in the `data` folder. For that, you should use the following syntax:
+You can add more words to the vocabulary by editing the `vocab.txt` file inside the corresponding language folder in the `data` folder. For that, you should use the following syntax:
 
 ```
 type | word_1_1 (extra_info_1_1) word_1_2 (extra_info_1_2) ... word_1_n (extra_info_1_n1), word_2_1 (extra_info_2_1) word_2_2 (extra_info_2_2) ... word_2_n2 (extra_info_2_n3), ..., word_m_1 (extra_info_m_1) word_m_2 (extra_info_m_2) ... word_m_nm (extra_info_m_nm) | trans_word_1_1 (extra_info_1_1) trans_word_1_2 (extra_info_1_2) ...  trans_word_1_r1 (extra_info_1_r1), trans_word_2_1 (extra_info_2_1) trans_word_2_2 (extra_info_2_2) ... trans_word_2_r2 (extra_info_2_r2), ..., trans_word_s_1 (extra_info_s_1) trans_word_s_2 (extra_info_s_2) ... trans_word_s_rs (extra_info_s_rs)
 ```
 
-Where: `type` is one of the following: `noun`, `verb`, `adje`, `adve`, `ph-v`, `expr`, `prep` and correspond respectively to noun, verb, adjective, adverb, phrasal verb, expression and preposition. `word_i_j` is the `j`th word of the set `i`. `trans_word_i_j` is the translation of the `j`th word of the set `i`. `extra_info_i_j` is any extra information that you want to add to the `j`th word in order to help you to remember the word, but will not be affected by the program, i.e. you won't be asked to write it to get the word right.
+where `type` is one of the following: `noun`, `verb`, `adje`, `adve`, `ph-v`, `expr` or `prep` and correspond respectively to noun, verb, adjective, adverb, phrasal verb, expression and preposition; `word_i_j` is the `j`-th word of the set `i`. `trans_word_i_j` is the `j`-th word of the translation set `i`, and `extra_info_i_j` is any extra information that you may want to add to the `j`-th word in order to help you to remember the word, but will not be affected by the program, i.e. you won't be asked to write it to get the word right.
+
+An important thing to note you should not use commas (`,`) or pipes (`|`) inside the words or the extra information, as they are used to separate the different words and the different sets of words.
 
 Here are some examples:
 
