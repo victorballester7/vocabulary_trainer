@@ -2,4 +2,4 @@
 **/__pycache__/**
 **/data/**
 !data/**/vocab.txt
-!**/data/**/default/**
+!data/fr/default/incorrect.txt
