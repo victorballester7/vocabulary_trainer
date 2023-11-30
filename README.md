@@ -35,7 +35,7 @@ type | word_1_1 (extra_info_1_1) word_1_2 (extra_info_1_2) ... word_1_n (extra_i
 
 where `type` is one of the following: `noun`, `verb`, `adje`, `adve`, `ph-v`, `expr` or `prep` and correspond respectively to noun, verb, adjective, adverb, phrasal verb, expression and preposition; `word_i_j` is the `j`-th word of the set `i`. `trans_word_i_j` is the `j`-th word of the translation set `i`, and `extra_info_i_j` is any extra information that you may want to add to the `j`-th word in order to help you to remember the word, but will not be affected by the program, i.e. you won't be asked to write it to get the word right.
 
-An important thing to note you should not use commas (`,`) or pipes (`|`) inside the words or the extra information, as they are used to separate the different words and the different sets of words.
+An important thing to note is that you should not use commas (`,`) or pipes (`|`) inside the words or the extra information, as they are used to separate the different words and the different sets of words.
 
 Here are some examples:
 
