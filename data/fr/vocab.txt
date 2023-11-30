@@ -548,3 +548,4 @@ verb | accédér à | acceder a
 noun | acte | acto
 adje | actif, active | activo, activa
 verb | adhérer à | adherirse a, afiliarse a
+noun | truc | cosa (coloquial)
