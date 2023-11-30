@@ -549,3 +549,4 @@ noun | acte | acto
 adje | actif, active | activo, activa
 verb | adhérer à | adherirse a, afiliarse a
 noun | truc | cosa (coloquial)
+noun | mec | tío (coloquial)
