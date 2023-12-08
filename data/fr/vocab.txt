@@ -544,9 +544,20 @@ expr | à l'endroit | al derecho
 expr | à l'envers | al revés
 expr | à plein voix | a viva voz
 noun | abbaye | abadía
-verb | accédér à | acceder a
+verb | accéder à | acceder a
 noun | acte | acto
 adje | actif, active | activo, activa
 verb | adhérer à | adherirse a, afiliarse a
 noun | truc | cosa (coloquial)
 noun | mec | tío (coloquial)
+expr | au sein de | en el seno de, dentro de
+noun | témoinage | testimonio 
+conj | tandis que | mientras que
+noun | poids | peso
+adje | gai, gaie | alegre
+verb | maîtriser | dominar
+prep | parmi | entre, entre (entre varios)
+verb | s'avérer | resultar
+adve | par ailleurs | por otra parte, además, asimismo
+noun | mecontentement | descontento, insatisfacción, desagrado
+verb | râler | quejarse, protestar
